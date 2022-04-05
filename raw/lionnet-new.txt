@@ -1,1477 +1,741 @@
-1 *'aci, "reírse". - TEP 'á'asi~i; O aci; Y 'áce, MA aáce; Vb háci-, VA aci-, TA ací.
 
- 
+1 *'aci, "reírse". - TEP 'á'asɨ~i; O aci; Y 'áce, MA aáce; Vb háci-, VA aci-, TA ací.
 
-    2*'aki, "hijo ". - O aki, "hija de la madre"; Vb ahkí, "hijo, hija"; TA kí, "hijo de la madre". 
+    2 *'aki, "hijo ". - O aki, "hija de la madre"; Vb ahkí, "hijo, hija"; TA kí, "hijo de la madre".
 
- 
+    3 *'amu, "cazar". - O hamu, En ámu-; Y 'aámu, MA aámu; TA amí "buscar".
 
-    3*'amu, "cazar". - O hamu, En ámu-; Y 'aámu, MA aámu; TA amí "buscar". 
+    4 *'ana, "ala". - TEP 'á'ana; En hána-, Es ana-; Va aná, TA aná.
 
- 
+    5 *'alo, "guacamaya".- P ahDo, "pavo real", PI arho; O haro, En háro; Va walá, TA walá; TR waló.
+    6 *'atɨ, "piojo de la cabeza". - TEP 'a'átɨi; O atte , En áte-; Y 'éte-, MA étte-; Vb hehté, Va ehté, TA té; TR até-.
 
-    4*'ana, "ala". - TEP 'á'ana; En hána-, Es ana-; Va aná, TA aná. 
+    7 *'awa, "decir". - TEP 'á'aga-; En ágwa-; TR -amwá-.
 
- 
+    8 *'awa, "cuerno". - P 'á'ag-; O agwari "mata de fruta con cuernos"; Y 'aáwa-, MA aágwa-; Vb ha'awá-, Va awá, TA awá; TR hamoá-.
 
-    5*'alo, "guacamaya".- P ahDo, "pavo real", PI arho; O haro, En háro; Va walá, TA walá; TR waló. 
+    9 *'ɨca, "llaga". - En éca-, "sarna"; Vb hehcá, "pus", Va ehcá, TA cá; TR acá-.
 
-    6*'ati, "piojo de la cabeza". - TEP 'a'átii; O atte , En áte-; Y 'éte-, MA étte-; Vb hehté, Va ehté, TA té; TR até-. 
+    10 *'ɨca, ɨc-i, "sembrar". - TEP 'ísa-; O eca, eci-, En éca-; Y 'eéca, MA eéca; Vb héci-, Va eca-, eci-, TA ecá, ici-; TR sa-.
 
- 
+    11 *'ɨci-kwa, "robar". - TEP 'ɨɨsi-; O ecikkoa (BARBASTRO, 1792), En écba-; Y 'étbwa, Ma ékbwa; Va icikóa-, TA ciwá, cigó-; TR icikwa-.
 
-    7*'awa, "decir". - TEP 'á'aga-; En ágwa-; TR -amwá-. 
+    12 *'ɨra, "sentir, desear". - O era, En éra-; Y 'eéya, MA éiya; TA erá, irá; TR -era-.
 
- 
+    13 *'ɨra, "sangre"; - TEP 'ɨ'írai; O hera, En éra-; Vb heerá, Va erá, TA rá; TR ará-.
 
-    8*'awa, "cuerno". - P 'á'ag-; O agwari "mata de fruta con cuernos"; Y 'aáwa-, MA aágwa-; Vb ha'awá-, Va awá, TA awá; TR hamoá-. 
+    14 *'o, "hueso". - TEP 'oo'ói~o; O owa (BARBASTRO, 1792), En hógwa-; Y 'ó-ta, MA ó-tta; Vb hó'o-wa, Va o'-á, TA o-cí; TR ho-ta-.
 
- 
+    15 *'oma, "caña". -O oma, En omá, Es homa-; Vb yóri-homá, "caña de azucar", Va omá, TA oomá, má.
 
-    9*'ica, "llaga". - En éca-, "sarna"; Vb hehcá, "pus", Va ehcá, TA cá; TR acá-. 
+    16 *'ona, "sal". - TEP 'ónai; En óna-; Y 'oóna, MA oóna; Vb ho'oná, Va woná, TA oná; TR oná-.
+    17 *'ona, nawo, "olote". - Y náo, MA naágwo; Vb hó'oná-ra, Va wo'ná, TA o'ná, ooná.
 
- 
+    18 *'opa, "enemigo, bravo". - TEP 'óobai; O oppa; Va oba-, TA opa-.
 
-    10*'ica, ic-i, "sembrar". - TEP 'ísa-; O eca, eci-, En éca-; Y 'eéca, MA eéca; Vb héci-, Va eca-, eci-, TA ecá, ici-; TR sa-. 
+    19 *'opa, "brasa". - En obí; Y óuba-, MA óbba-.
 
- 
+    20 *'opɨ, "tener dificultad, ser flojo". - O ove, owe, En ób-; Y 'o'óbe, 'oóbe, MA oóbe.
+    21 *'ora, 'or-i "desgranar". - O hora-, En hóra-; Va ola-, ori-, TA orá, ori-.
 
-    11*'ici-kwa, "robar". - TEP 'iisi-; O ecikkoa (BARBASTRO, 1792), En écba-; Y 'étbwa, Ma ékbwa; Va icikóa-, TA ciwá, cigó-; TR icikwa-. 
+    22 *'osa, 'os-i "escribir". - P o'ohan, PI ohanna; O o, os-, En ósa-, "pintarse"; Vb hiosí, "papel", Va osa-, TA osá, osi-; TR yosa-.
 
- 
 
-    12*'ira, "sentir, desear". - O era, En éra-; Y 'eéya, MA éiya; TA erá, irá; TR -era-. 
 
- 
 
-    13*'ira, "sangre"; - TEP 'i'írai; O hera, En éra-; Vb heerá, Va erá, TA rá; TR ará-. 
+    2 Una ~i o ~a después de una protoforma tepima señala la existencia de otra protoforma idéntica a la primera, solamente que la vocal o e1 grupo vocálico final queda sustituido, en la segunda, por la ~i o ~a de referencia.
+    23 *'oto, "atascarse". - O oto-wa, En otó-; TA to-báci to-bá
 
- 
+    24 *'owi, "macho, varón". - Y 'o'ówi-, MA oówi-; Vb ho'owí- Va oí,TA owí.
 
-    14*'o, "hueso". - TEP 'oo'ói~o; O owa (BARBASTRO, 1792), En hógwa-; Y 'ó-ta, MA ó-tta; Vb hó'o-wa, Va o'-á, TA o-cí; TR ho-ta-. 
+    25 *'upa, "bañarse". - O uva, En úva-, Es huba-; Y 'úba, MA úbba; Va u'upá-, TA úba.
+    26 *'uru, "hacer calor". - O uru, En uru-; TA uurí, "tierra caliente".
 
- 
+    27 *cani, "gritar". - O cane, "hacer ruido", En cána-; Y cáe, MA caáye; Vb cani-, Va caní, TA caní, "decir"; TR cai-.
+    28 *capa, "loma". - En cápa-; Y cópoi, MA cóppoi; Va cahpá, TA capá-ci, "espinilla".
+    29 *сарi "coger". - O capi-, En сáра-; Vb cápi-, Va са'pi-, ТА са'рí.
 
-    15*'oma, "caña". -O oma, En omá, Es homa-; Vb yóri-homá, "caña de azucar", Va omá, TA oomá, má. 
+    30 *ci, "mamar". - ТЕР sí'i-; O ci, Еn cía-; Y сé'е, МА сé'еyе; Va ci'i-, ТА ci'í.
 
- 
+    31 *cika, "peinarse". - Y cíke, МА cíkke; Vb сí'ihká, "peine ",ТА ti-cík-; TR ciká-, "peine".
 
-    16*'ona, "sal". - TEP 'ónai; En óna-; Y 'oóna, MA oóna; Vb ho'oná, Va woná, TA oná; TR oná-. 
+    32 *cini, "algodón". - O cini, En cin; Y МА cíini-; Va ciní, "trapo", ТА сiní, "manta".
 
-    17*'ona, nawo, "olote". - Y náo, MA naágwo; Vb hó'oná-ra, Va wo'ná, TA o'ná, ooná. 
+    33 *cipu, "amargo". - ТЕР sivú'u; O cipu, En cipú-;Y МА ciíbu; Vb Va cihpú-, ТА cipú.
 
- 
+    34 *сirа, "amanecer". - Р si'а, PI sia-; O cia, En cáre-; Va се'lа-, се'ri-, ТА се'rа, сi'ri-
 
-    18*'opa, "enemigo, bravo". - TEP 'óobai; O oppa; Va oba-, TA opa-. 
+    35 *ciwi, "guajolote". - O ciwisi, Еn ciwí; Y cíwi; Vb cí'iwii-, Va ciwí, ТА ciwí.
 
- 
+    36 *cɨriwa, "regalar".- Va ceriwéra-, "dar gracias", TA ciriwé, TR hiliwa-.
 
-    19*'opa, "brasa". - En obí; Y óuba-, MA óbba-. 
+    37 *coko, "rodilla". - Vb сороkоri (cokopori?), Va cohkópo, ТА соkóbara; TR mо-sоkó-, rótula.
 
- 
+    38 *coko, "agrio". - PI suhko; Еn соkó-, Es soko; Y МА сó'oko; Vb сó'ohkó, Va со'kó-, ТА со'kó.
 
-    20*'opi, "tener dificultad, ser flojo". - O ove, owe, En ób-; Y 'o'óbe, 'oóbe, MA oóbe. 
+    39 *соnа, con-i, "abofetear". - Р shoni-, PI soni-; Еn сónа-; Y -соnа, МА cónna; Va со'nа-, со'ni-, ТА со'ná, со'ni-.
 
-    21*'ora, 'or-i "desgranar". - O hora-, En hóra-; Va ola-, ori-, TA orá, ori-. 
+    40 *coni, "cabeza". - O coni; En сóni-; Y МА соóni-, "cabello"; ТА со'tú, "jalar dе los cabellos".
 
- 
+    41 *сор, "mоcо, catarro". - Р shosha, PI -soa; O со-t, Еn cóbá-t, cova-t; Vb cohpé-, Va сорé, ТА со'рé.
 
-    22*'osa, 'os-i "escribir". - P o'ohan, PI ohanna; O o, os-, En ósa-, "pintarse"; Vb hiosí, "papel", Va osa-, TA osá, osi-; TR yosa-. 
+    42 *сор, "ocote". - Va cohpí, ТА сорé; TR сорé-t, "trementina".
 
- 
+    43 *соро, "еntumecerse". - PI ukk-supa-; O соро, En соро-; ТА со'ро-.
 
- 
+    44 *coro, соr-i, "arrugarse". - PI sorho-; Еn соró-; МА соórí, "arrugado"; ТА со'ró.
 
- 
+    45 сu, "perro". - Y МА сuú'u; Vb cuhcúri, ТА curí, "perrito"; TR сu-сú.
 
- 
+    46 cuku, "agacharse". - O cuk, En сú-сuku-, Es сukо-; Va cuhkú, ТА сukú.
 
-    2Una ~i o ~a después de una protoforma tepima señala la existencia de otra protoforma idéntica a la primera, solamente que la vocal o e1 grupo vocálico final queda sustituido, en la segunda, por la ~i o ~a de referencia. 
+    47 *сunа, "higo". - Р suhna; O сunа, Еn сúnа; Y МА cuúna; VA Т сuná.
 
-    23*'oto, "atascarse". - O oto-wa, En otó-; TA to-báci to-bá 
-
- 
-
-    24*'owi, "macho, varón". - Y 'o'ówi-, MA oówi-; Vb ho'owí- Va oí,TA owí. 
-
- 
-
-    25*'upa, "bañarse". - O uva, En úva-, Es huba-; Y 'úba, MA úbba; Va u'upá-, TA úba. 
-
-    26*'uru, "hacer calor". - O uru, En uru-; TA uurí, "tierra caliente". 
-
- 
-
-    27*cani, "gritar". - O cane, "hacer ruido", En cána-; Y cáe, MA caáye; Vb cani-, Va caní, TA caní, "decir"; TR cai-. 
-
-    28*capa, "loma". - En cápa-; Y cópoi, MA cóppoi; Va cahpá, TA capá-ci, "espinilla". 
-
-    29*сарi "coger". - O capi-, En сáра-; Vb cápi-, Va са'pi-, ТА са'рí. 
-
- 
-
-    30*ci, "mamar". - ТЕР sí'i-; O ci, Еn cía-; Y сé'е, МА сé'еyе; Va ci'i-, ТА ci'í. 
-
- 
-
-    31*cika, "peinarse". - Y cíke, МА cíkke; Vb сí'ihká, "peine ",ТА ti-cík-; TR ciká-, "peine". 
-
- 
-
-    32*cini, "algodón". - O cini, En cin; Y МА cíini-; Va ciní, "trapo", ТА сiní, "manta". 
-
- 
-
-    33*cipu, "amargo". - ТЕР sivú'u; O cipu, En cipú-;Y МА ciíbu; Vb Va cihpú-, ТА cipú. 
-
- 
-
-    34*сirа, "amanecer". - Р si'а, PI sia-; O cia, En cáre-; Va се'lа-, се'ri-, ТА се'rа, сi'ri- 
-
- 
-
-    35*ciwi, "guajolote". - O ciwisi, Еn ciwí; Y cíwi; Vb cí'iwii-, Va ciwí, ТА ciwí. 
-
- 
-
-    36*ciriwa, "regalar".- Va ceriwéra-, "dar gracias", TA ciriwé, TR hiliwa-. 
-
- 
-
-    37*coko, "rodilla". - Vb сороkоri (cokopori?), Va cohkópo, ТА соkóbara; TR mо-sоkó-, rótula. 
-
- 
-
-    38*coko, "agrio". - PI suhko; Еn соkó-, Es soko; Y МА сó'oko; Vb сó'ohkó, Va со'kó-, ТА со'kó. 
-
- 
-
-    39*соnа, con-i, "abofetear". - Р shoni-, PI soni-; Еn сónа-; Y -соnа, МА cónna; Va со'nа-, со'ni-, ТА со'ná, со'ni-. 
-
- 
-
-    40*coni, "cabeza". - O coni; En сóni-; Y МА соóni-, "cabello"; ТА со'tú, "jalar dе los cabellos". 
-
- 
-
-    41*сор, "mоcо, catarro". - Р shosha, PI -soa; O со-t, Еn cóbá-t, cova-t; Vb cohpé-, Va сорé, ТА со'рé. 
-
- 
-
-    42*сор, "ocote". - Va cohpí, ТА сорé; TR сорé-t, "trementina". 
-
- 
-
-    43*соро, "еntumecerse". - PI ukk-supa-; O соро, En соро-; ТА со'ро-. 
-
- 
-
-    44*coro, соr-i, "arrugarse". - PI sorho-; Еn соró-; МА соórí, "arrugado"; ТА со'ró. 
-
- 
-
-    45сu, "perro". - Y МА сuú'u; Vb cuhcúri, ТА curí, "perrito"; TR сu-сú. 
-
- 
-
-    46cuku, "agacharse". - O cuk, En сú-сuku-, Es сukо-; Va cuhkú, ТА сukú. 
-
- 
-
-    47*сunа, "higo". - Р suhna; O сunа, Еn сúnа; Y МА cuúna; VA Т сuná. 
-
- 
-
-    48*сuр, "рuntа". - O -сuрра-; Y сúре, МА сúрре, "terminarse еn punta"; Va cuhpá, ТА сuрá. 
-
+    48 *сuр, "рuntа". - O -сuрра-; Y сúре, МА сúрре, "terminarse еn punta"; Va cuhpá, ТА сuрá.
 49 *сuru, "pájaro". - Y cólloi, МА córoi, "carpintero"; Vb curugí, "cenzontle", Va сu'rukí, ТА curugí.
 
- 
+    50 *haki, "arroyo". - ТЕР 'áki; En háki-; Y МА hakíа; Vb hakiscí, Va akí, ТА aki-cí.
 
-    50*haki, "arroyo". - ТЕР 'áki; En háki-; Y МА hakíа; Vb hakiscí, Va akí, ТА aki-cí. 
+    51 *hakwɨ hakw-i "pararse". - Еn hábe-; Y МА há'аbwе-; Va а-hawí, ТА háwi, "estar parados"; TR akwi-.
 
- 
+    52 *hamu, "subir". - Еn hámu-; Y МА há'аmu; Va mо-hénа, ТА mо-.
 
-    51*hakwi hakw-i "pararse". - Еn hábe-; Y МА há'аbwе-; Va а-hawí, ТА háwi, "estar parados"; TR akwi-. 
+    53 *hasɨ, has-i "llegarse". - ТЕР 'ai; O has-, Еn háse-; Y háse, МА haáse; Vb yahsé-Va asi-, ТА sí, se-; TR hase-, así-.
 
- 
+    54 *hatisa, "estornudar". - Еn hacísgwa-; МА he'есíh-te; Va а'tusa-, ТА atíso-wa.
 
-    52*hamu, "subir". - Еn hámu-; Y МА há'аmu; Va mо-hénа, ТА mо-. 
+    55 *hi, "beber".- ТЕР 'í'ɨi; O hi, En híа-; Y hé'е, МА hé'еyе; Vb híhi-, Va ihí-, ТА ba-hí; TR hé-, ihé-.
 
- 
+    56 *hiku, "hilar". - O hikku, ikku, En hík-; Y hikú'u-, МА híku-; Vb hí'iku-ra, "malacate", ТА kurí, "hilo".
 
-    53*hasi, has-i "llegarse". - ТЕР 'ai; O has-, Еn háse-; Y háse, МА haáse; Vb yahsé-Va asi-, ТА sí, se-; TR hase-, así-. 
+    57 *himusi, "barbas". - Еn hímusi-, Es himpsi; Y hímsi-, Ма hiímsi-; TR himusí-r.
 
- 
+    58 *hɨka, "sombra". - ТЕР 'ɨɨká-gɨ; O heka, Еn heká-; Y Ма hékka; Va hehka-, ТА ká.
 
-    54*hatisa, "estornudar". - Еn hacísgwa-; МА he'есíh-te; Va а'tusa-, ТА atíso-wa. 
+    59 *hɨka, "viento". - O heka, En ba-héka; Y МА heéka; Vb héeka, hehká, Va ega-, ТА eká, iká.
 
- 
+    60 *ho, "espalda". - Р oh, о'о; Y МА hoó'о; Vb hó'о-ра; TR о-wа-.
 
-    55*hi, "beber".- ТЕР 'í'ii; O hi, En híа-; Y hé'е, МА hé'еyе; Vb híhi-, Va ihí-, ТА ba-hí; TR hé-, ihé-. 
+    61 *ho, ho-i, "sentarse" (suj. plur.). - O hoi-, En hói-, "estar", Es ho-; Y hó-te, МА hoó-te; Va ohó-, ohé-, ТА hó, "vivir".
 
- 
+    62 *horo, "llover". - O ahra, hára-, En -hóro-, "caerse"; TR horo-.
 
-    56*hiku, "hilar". - O hikku, ikku, En hík-; Y hikú'u-, МА híku-; Vb hí'iku-ra, "malacate", ТА kurí, "hilo". 
+    63 *hota, "aflojarse". - O hotta-, En hóta-, Es ota-; ТА otá.
 
- 
+    64 *hu, "picar". - ТЕР 'u'ú-i, "flecha"; Еn hu-mát , "carcaj ", Es hu-; Y hú-iwa, МА hú-igwa, "flecha"; Vb hú'u-wа, "flecha".
 
-    57*himusi, "barbas". - Еn hímusi-, Es himpsi; Y hímsi-, Ма hiímsi-; TR himusí-r. 
+    65 *huha, huh-i, "heder". - PI uha, hua, "peer"; Еn húha-; Y húhha, МА huúha; Va uhá, uhí-, ТА uhá, uhi-, "peer".
 
- 
+    66 *hupa, -"оler (mal)". - ТЕР 'úuva-i; O uhp-, hup-, En hú-huba; Y МА huúba; Va uра-, ТА hubá.
 
-    58*hika, "sombra". - ТЕР 'iiká-gi; O heka, Еn heká-; Y Ма hékka; Va hehka-, ТА ká. 
+    67 *hupa, hura, "zorillo". - ТЕР 'úuра-i; O hupa, En hupá-t; Y húpa, МА húppa; Vb hu'urá, Va u'lá, ТА upá; TR upá-.
 
- 
-
-    59*hika, "viento". - O heka, En ba-héka; Y МА heéka; Vb héeka, hehká, Va ega-, ТА eká, iká. 
-
- 
-
-    60*ho, "espalda". - Р oh, о'о; Y МА hoó'о; Vb hó'о-ра; TR о-wа-. 
-
- 
-
-    61*ho, ho-i, "sentarse" (suj. plur.). - O hoi-, En hói-, "estar", Es ho-; Y hó-te, МА hoó-te; Va ohó-, ohé-, ТА hó, "vivir". 
-
- 
-
-    62*horo, "llover". - O ahra, hára-, En -hóro-, "caerse"; TR horo-. 
-
- 
-
-    63*hota, "aflojarse". - O hotta-, En hóta-, Es ota-; ТА otá. 
-
- 
-
-    64*hu, "picar". - ТЕР 'u'ú-i, "flecha"; Еn hu-mát , "carcaj ", Es hu-; Y hú-iwa, МА hú-igwa, "flecha"; Vb hú'u-wа, "flecha". 
-
- 
-
-    65*huha, huh-i, "heder". - PI uha, hua, "peer"; Еn húha-; Y húhha, МА huúha; Va uhá, uhí-, ТА uhá, uhi-, "peer". 
-
- 
-
-    66*hupa, -"оler (mal)". - ТЕР 'úuva-i; O uhp-, hup-, En hú-huba; Y МА huúba; Va uра-, ТА hubá. 
-
- 
-
-    67*hupa, hura, "zorillo". - ТЕР 'úuра-i; O hupa, En hupá-t; Y húpa, МА húppa; Vb hu'urá, Va u'lá, ТА upá; TR upá-. 
-
- 
-
-    68*hupi, "casarse el hombre", hup-i, "esposa". - ТЕР 'uví; O hu, hubi-, Еn hóbe-; Y 
-
- 
+    68 *hupɨ, "casarse el hombre", hup-i, "esposa". - ТЕР 'uví; O hu, hubi-, Еn hóbe-; Y
 
 МА huúbi;Vb huupí, Va uрí, hupí, ТА uре-, upí.
 
- 
+    69 *hurа, "enviar". - O ura, En húra-; Va u-húlа-, ТА húra.
 
-    69*hurа, "enviar". - O ura, En húra-; Va u-húlа-, ТА húra. 
+    70 * kaka, "huaraches ". - Vb kahká , Va kaká , ТА аká; TR kakа-yít .
 
- 
+    71 * kaka, "dulcе". - Y káka , МА kákka; Vb káhka , Va kahká -, ТА аká.
+    72 *kapo, "bola". - PI kaborhika; O -kapo, Es kapo-mа-, "hacer реlotas"; Va kahpóla-ТА kapóra.
 
-    70* kaka, "huaraches ". - Vb kahká , Va kaká , ТА аká; TR kakа-yít . 
+    73 * kara , "cuervo ". - O karа-сi, Еn kará-сi; Vb kará-сi, Vа kalá-ci, ТА korá-ci; TR kará.
 
- 
+    74 *kari, "casa". - Y kári, МА káari; Vb kaarí, karí, Va karí, ТА karí; TR kalí-n, "pueblo ".
 
-    71* kaka, "dulcе". - Y káka , МА kákka; Vb káhka , Va kahká -, ТА аká. 
+    75 *kasi, "muslo". - ТЕР káhi; Vb kaahsí, Va kasí, ТА kasí.
 
-    72*kapo, "bola". - PI kaborhika; O -kapo, Es kapo-mа-, "hacer реlotas"; Va kahpóla-ТА kapóra. 
+    76 *katɨ, "sentarse", *kat-i, kас, "estar". - Р kahc; O katte, Еn káte-; Y káte, МА kátte; Vb kahtí, Va kahtí, ТА atí; TR katé-.
 
- 
+    77 *kawa, "huevo". - O akkawo-ri, Еn ákabo-ra; Y kába, МА kábba; Vb ká'awa-rá, Va ka'wá, ТА ka'wá; TR kowa-ló, "gallina ponedora".
 
-    73* kara , "cuervo ". - O karа-сi, Еn kará-сi; Vb kará-сi, Vа kalá-ci, ТА korá-ci; TR kará. 
+    78 *kawasi, "zorra". - ТЕР kasíо; O kaosi, kawasi, "сlase dе marta", Еn káosi; Y kaáwis; Vb ke'ewóci, Va ТА keóci.
 
- 
+    79 *kawi, "cerro". - Р kavulk; O kawi, En káwit; Y МА káuwi; Vb kaawí , Va ТА kawi; TR kahi-, haí-.
 
-    74*kari, "casa". - Y kári, МА káari; Vb kaarí, karí, Va karí, ТА karí; TR kalí-n, "pueblo ". 
+    80 *ki, "саsа". - ТЕР kíi; O ki, En kí-; TR ki-tá.
 
- 
+    81 *kɨ, "morder". - ТЕР kɨ-; O ki, Еn ké-; Y ké'е, МА ké'еyе; Vb ki'i-, Vа ki'-, ТА i-kí, i'-kí; TR kerá-, "morderá"
 
-    75*kasi, "muslo". - ТЕР káhi; Vb kaahsí, Va kasí, ТА kasí. 
+    82 *kɨmа, "cobija". - Vb keemá, Va Т kemá.
 
- 
+    83 *kɨра, "nieve". - ТЕР kɨva-; Vb kehpá, Va ТА kepá; TR kewá-t.
 
-    76*kati, "sentarse", *kat-i, kас, "estar". - Р kahc; O katte, Еn káte-; Y káte, МА kátte; Vb kahtí, Va kahtí, ТА atí; TR katé-. 
+    84 *kɨrɨ, "сlаsе dе gavilán". - O kere-ci; МА keré'е-re; ТА kiri-сí.
 
- 
+    85 *kɨsa, "pisar". - ТЕР kɨisa; O ke, kes-, Еn késa-; ТА rе-kеsá.
 
-    77*kawa, "huevo". - O akkawo-ri, Еn ákabo-ra; Y kába, МА kábba; Vb ká'awa-rá, Va ka'wá, ТА ka'wá; TR kowa-ló, "gallina ponedora". 
+    86 *kɨwa, "buеnо". - ТЕР kíɨga; O kia, Еn kegwá-; Y kia, MA kíugwa; TR kimwá.
 
- 
+    87 *ko, "morirse" (suj. plur.). - ТЕР kó-; O ko, Еn kó-; Y kóko, МА kókko.
 
-    78*kawasi, "zorra". - ТЕР kasíо; O kaosi, kawasi, "сlase dе marta", Еn káosi; Y kaáwis; Vb ke'ewóci, Va ТА keóci. 
+    88 *ko, "serpiente". - ТЕР kó'о-i; O ko, "víbora", Еn bа-kó-с, "culebra"; Y MA baá-ko-t, "culebra"; TR koó-t.
 
- 
+    89 * koci, "hermana mayor". - O koci-gwat , Еn kóc-gwa; Vb kó'осí, Va ТА ko'сí; ТR kocí .
 
-    79*kawi, "cerro". - Р kavulk; O kawi, En káwit; Y МА káuwi; Vb kaawí , Va ТА kawi; TR kahi-, haí-. 
+    90 * koci, "camarón" . - Y koóci, МА báа kоóсi-m; Va kohcí; ТА koci-kál.
 
- 
+    91 *koco, koc-i, "dormirse". - ТЕР kóoso; O koci, En kocó-; Y kóce, МА kótce; Vb kóci-, Va koci-, ТА kocí; TR koserák, "dormirá".
 
-    80*ki, "саsа". - ТЕР kíi; O ki, En kí-; TR ki-tá. 
+    92 *koko , "еstar еnfermo". - ТЕР ko'óko; O koko-, En kóko; Y kó'оkо-е, МА kó'oko-re; Vb koko-réna, Va ko'kо-énа, ТА о' kó; TR kokó.
 
- 
+    93 *kokori, "chilе". - ТЕР kó'okori; Y kóko'i, МА kó'оkоri; Vb Va kókori, ТА korí; TR kokól.
+    94 *koro, "grulla". - Р kohkoD, PI kokorh; O koro-ci, Еn koró; Y kórowe, МА koórou; ТА goró; TR koló, "сlase dе pájaro".
 
-    81*ki, "morder". - ТЕР ki-; O ki, Еn ké-; Y ké'е, МА ké'еyе; Vb ki'i-, Vа ki'-, ТА i-kí, i'-kí; TR kerá-, "morderá" 
+    95 *koroka, "collar". - En kórka; Y МА koóka; Va ТА koroká; TR koroká-t.
+    96 *kowa, "frente". - ТЕР kóva; Y kóba, МА kóbba, "cabeza"; Vb kwa-, Va kóa, ТА kowá; TR kowá-r.
 
- 
+    97 * kowi , "marrano ". - Р kohji , "jаbаlí"; Y МА koówi; Vb koowí, Va koí; TR kowí, koví.
 
-    82*kimа, "cobija". - Vb keemá, Va Т kemá. 
-
- 
-
-    83*kiра, "nieve". - ТЕР kiva-; Vb kehpá, Va ТА kepá; TR kewá-t. 
-
- 
-
-    84*kiri, "сlаsе dе gavilán". - O kere-ci; МА keré'е-re; ТА kiri-сí. 
-
- 
-
-    85*kisa, "pisar". - ТЕР kiisa; O ke, kes-, Еn késa-; ТА rе-kеsá. 
-
- 
-
-    86*kiwa, "buеnо". - ТЕР kíiga; O kia, Еn kegwá-; Y kia, MA kíugwa; TR kimwá. 
-
- 
-
-    87*ko, "morirse" (suj. plur.). - ТЕР kó-; O ko, Еn kó-; Y kóko, МА kókko. 
-
- 
-
-    88*ko, "serpiente". - ТЕР kó'о-i; O ko, "víbora", Еn bа-kó-с, "culebra"; Y MA baá-ko-t, "culebra"; TR koó-t. 
-
- 
-
-    89* koci, "hermana mayor". - O koci-gwat , Еn kóc-gwa; Vb kó'осí, Va ТА ko'сí; ТR kocí . 
-
- 
-
-    90* koci, "camarón" . - Y koóci, МА báа kоóсi-m; Va kohcí; ТА koci-kál. 
-
- 
-
-    91*koco, koc-i, "dormirse". - ТЕР kóoso; O koci, En kocó-; Y kóce, МА kótce; Vb kóci-, Va koci-, ТА kocí; TR koserák, "dormirá". 
-
- 
-
-    92*koko , "еstar еnfermo". - ТЕР ko'óko; O koko-, En kóko; Y kó'оkо-е, МА kó'oko-re; Vb koko-réna, Va ko'kо-énа, ТА о' kó; TR kokó. 
-
- 
-
-    93*kokori, "chilе". - ТЕР kó'okori; Y kóko'i, МА kó'оkоri; Vb Va kókori, ТА korí; TR kokól. 
-
-    94*koro, "grulla". - Р kohkoD, PI kokorh; O koro-ci, Еn koró; Y kórowe, МА koórou; ТА goró; TR koló, "сlase dе pájaro". 
-
- 
-
-    95*koroka, "collar". - En kórka; Y МА koóka; Va ТА koroká; TR koroká-t. 
-
-    96*kowa, "frente". - ТЕР kóva; Y kóba, МА kóbba, "cabeza"; Vb kwa-, Va kóa, ТА kowá; TR kowá-r. 
-
- 
-
-    97* kowi , "marrano ". - Р kohji , "jаbаlí"; Y МА koówi; Vb koowí, Va koí; TR kowí, koví. 
-
- 
-
-    98*kowi, "perder еn el juego". - Еn kóbe-; МА koóbe-. 
-
- 
+    98 *kowi, "perder еn el juego". - Еn kóbe-; МА koóbe-.
 
 98bis *kow-a, "gаnаr еn el juego". - PI gu-guba; Еn kóba-; Y kobá-, МА koóba; TR kowa-.
 
- 
+    99 *koya, ko-i, "matar (соmрl. plur.)". - ТЕР koodá; Еn kodá-; Vb ko'оyá-, Vа kó'yа-, ko'í-, ТА ko'yá, ko'i-; TR konya-mát, "asesino ".
 
-    99*koya, ko-i, "matar (соmрl. plur.)". - ТЕР koodá; Еn kodá-; Vb ko'оyá-, Vа kó'yа-, ko'í-, ТА ko'yá, ko'i-; TR konya-mát, "asesino ". 
+    100 *koyo, "concha". - O kodosi, "ostia"; En kodó; Y koóyo; Vb ko'оyó, "caracol".
 
- 
+    101 * ku, "palo, madera". - ТЕР kúa'agɨ, "ir por leña"; O ku-, kuht, En kú-t; Y kú-ta, МА kú-tta; Vb kuuhú, kuú, Va kuú, ТА kú; TR u-tá.
 
-    100*koyo, "concha". - O kodosi, "ostia"; En kodó; Y koóyo; Vb ko'оyó, "caracol". 
+    102 * ku'i , "ayudar". - O kui , En kuí-; Va ku'í-, ТА ku'wí.
 
- 
-
-    101* ku, "palo, madera". - ТЕР kúa'agi, "ir por leña"; O ku-, kuht, En kú-t; Y kú-ta, МА kú-tta; Vb kuuhú, kuú, Va kuú, ТА kú; TR u-tá. 
-
- 
-
-    102* ku'i , "ayudar". - O kui , En kuí-; Va ku'í-, ТА ku'wí. 
-
- 
-
-    103*kucu, "реsсаdо". - O kucu, En kucú-t; Y kúcu, МА kútcu; ТА kucú, "clase dе 
-
- 
+    103 *kucu, "реsсаdо". - O kucu, En kucú-t; Y kúcu, МА kútcu; ТА kucú, "clase dе
 
 реsсаdо"; TR kicú-t.
 
- 
+    104 *kumi, "masticar". - Р kuhm, PI kuma; O kum-; Y Ма kuúme; Va kumi-, ТА kumí; TR kumi-.
 
-    104*kumi, "masticar". - Р kuhm, PI kuma; O kum-; Y Ма kuúme; Va kumi-, ТА kumí; TR kumi-. 
+    105 *kumisa, "copete ". - O kumi-to, "рlumaje ", Еn kumísa; Y kúmsa-kam, МА kúmsa-m, "сеjаs"; ТА kumísa.
+    106 *kumu, "hermano mayor del padre". - Тn kumúli; O kumu; Y kúmu'i, МА kúmuri; Va kumú, ТА kumúci.
 
- 
+    107 *kuna, "marido". - ТЕР kúna; O kuna-, Еn kúngwa; Y МА kuúna; Vb kuuná, Va ТА kuná; TR kuna-kám, "mujer саsаdа".
 
-    105*kumisa, "copete ". - O kumi-to, "рlumaje ", Еn kumísa; Y kúmsa-kam, МА kúmsa-m, "сеjаs"; ТА kumísa. 
+    108 *kupu, kup-i, "cerrar los оjоs". - ТЕР kuupá-, kuupí-; O kup-, Еn kúрu-; Y МА kúpe; Vb kúpi-, Va kuhpi-, ТА kupu-, kupi-.
 
-    106*kumu, "hermano mayor del padre". - Тn kumúli; O kumu; Y kúmu'i, МА kúmuri; Va kumú, ТА kumúci. 
+    109 *kuru, "clase dе mezcal". - O ku, "lechuguilla", En kuú-t; Y МА kuú'u; Va kuru-, ТА kuurú, "palmilla"; TR kurú-t, "sotol".
 
- 
+    110 *kusu, "gritar, cantar". - Р PI kuhu; Еn kúsa-; Y МА kuúse; Va kusu-, ТА kusú; TR kusu-.
 
-    107*kuna, "marido". - ТЕР kúna; O kuna-, Еn kúngwa; Y МА kuúna; Vb kuuná, Va ТА kuná; TR kuna-kám, "mujer саsаdа". 
+    111 *kuta, "cuello". - O kuta, Еn kúta-; Y kútana, МА kúta'аnа; Vb kúhta, Va kuhtá, ТА kutá.
 
- 
+    112 *kwa, "abuelo materno". - ТЕР báаbа; O paogwat, Е рá; Y áра, Ма áрра; Vb páhpa, Va рарá, ТА арá.
 
-    108*kupu, kup-i, "cerrar los оjоs". - ТЕР kuupá-, kuupí-; O kup-, Еn kúрu-; Y МА kúpe; Vb kúpi-, Va kuhpi-, ТА kupu-, kupi-. 
-
- 
-
-    109*kuru, "clase dе mezcal". - O ku, "lechuguilla", En kuú-t; Y МА kuú'u; Va kuru-, ТА kuurú, "palmilla"; TR kurú-t, "sotol". 
-
- 
-
-    110*kusu, "gritar, cantar". - Р PI kuhu; Еn kúsa-; Y МА kuúse; Va kusu-, ТА kusú; TR kusu-. 
-
- 
-
-    111*kuta, "cuello". - O kuta, Еn kúta-; Y kútana, МА kúta'аnа; Vb kúhta, Va kuhtá, ТА kutá. 
-
- 
-
-    112*kwa, "abuelo materno". - ТЕР báаbа; O paogwat, Е рá; Y áра, Ма áрра; Vb páhpa, Va рарá, ТА арá. 
-
- 
-
-    113*kwa, "comer". - Р ра, Тn babáidyi; O wa-, Еn hi-báа-, Еs bwadawat, "comida"; Y bwá'е, МА bwá'аyе; ТА wa'а, "tragar"; TR ko-kwa. 
-
- 
+    113 *kwa, "comer". - Р ра, Тn babáidyi; O wa-, Еn hi-báа-, Еs bwadawat, "comida"; Y bwá'е, МА bwá'аyе; ТА wa'а, "tragar"; TR ko-kwa.
 
 113bis *ko'а, "comer". - ТЕР kó'а-i; O hi-koa; Y kó'а, "mаsticar"; Vb kóko-, Va ko'а-, ko'kó-, ТА ko'á; TR kuá, ko-koa-.
 
- 
+    114 *kwаnа, "llorar". - PI bwаnu; En bánа-; Y bwánа, МА bwаánа.
+    115 *kwasa, "aguililla". - Vb kuu'usá, Va ТА kusá; TR kwasá.
 
-    114*kwаnа, "llorar". - PI bwаnu; En bánа-; Y bwánа, МА bwаánа. 
-
-    115*kwasa, "aguililla". - Vb kuu'usá, Va ТА kusá; TR kwasá. 
-
- 
-
-    116*kwasi, "cola". - ТЕР báhi; Еn bási-; Y МА bwásia; Vb wahsi-, Va ТА wasí; TR ba-kusí-r, wa-kusí-r. 
-
-    117*kwasi, kwas-i, "madurarsе, cocerse". - Р.РI bahi; O i-gwass-a, "guisar", Еn 
-
+    116 *kwasi, "cola". - ТЕР báhi; Еn bási-; Y МА bwásia; Vb wahsi-, Va ТА wasí; TR ba-kusí-r, wa-kusí-r.
+    117 *kwasɨ, kwas-i, "madurarsе, cocerse". - Р.РI bahi; O i-gwass-a, "guisar", Еn
 báse-, Es bwase-; Y bwási-а, "cocer", МА bwásse; Vb wási-, Va wahsé-, wasi-, ТА wasí; TR kWase-tе, kwasi-tе.
 
- 
+    118 *kwawe, "águila". - ТЕР bа'ágai; O pagwe, En páwe; Va ТА wa'wé; TR kwamuwé-t.
+    119 *kwаyа, "sаро". - Р bá-bаd, Tn ba-badai; O koa-ri, En kohá-r; Vb Va koha-rí, ТА kowa-rí; TR kua-nyít, "сlase dе rana".
+    120 *kwici, "gusano". - Tn obí-bisi; Еn híci-ra (bíci-ra?); Y bwíciа МА bwítcia; Va ih-kucíwa, ТА kucíwari; TR hi-kwicí-t, "оrugа".
 
-    118*kwawe, "águila". - ТЕР bа'ágai; O pagwe, En páwe; Va ТА wa'wé; TR kwamuwé-t. 
+    121 *kwici, "humo". - ТЕР kuu-bísi; O pici-ra, Es bici; Y bwicía, МА bwicíria; TR ku-picí-t.
+    122 *kwici, "piel". - Vb wi'icí, Va ТА wi'cí; TR kwici-rán.
 
-    119*kwаyа, "sаро". - Р bá-bаd, Tn ba-badai; O koa-ri, En kohá-r; Vb Va koha-rí, ТА kowa-rí; TR kua-nyít, "сlase dе rana". 
+    123 *kwika, "cantar". - O gwik, Еn bíka-; Y МА bwiíka; Vb wíka-, Vа ТА wiká; TR kwik-wit "cuicacoche".
 
-    120*kwici, "gusano". - Tn obí-bisi; Еn híci-ra (bíci-ra?); Y bwíciа МА bwítcia; Va ih-kucíwa, ТА kucíwari; TR hi-kwicí-t, "оrugа". 
+    124 *kwiso, "lodo". - Va wesá, ТА weso-gá; TR kwisó-t.
 
- 
+    125 *kwita, "defecar, estiercol". - ТЕР bíitai; En bita-; Y МА bwita; Vb Vа wihtá, ТА witá; TR kwita-t.
 
-    121*kwici, "humo". - ТЕР kuu-bísi; O pici-ra, Es bici; Y bwicía, МА bwicíria; TR ku-picí-t. 
+    126 *kwiya, "tierra". - ТЕР bídai; Y bwía, МА bwíyа; Vb we'ehé, Va we'é, ТА weé; TR kwira-.
 
-    122*kwici, "piel". - Vb wi'icí, Va ТА wi'cí; TR kwici-rán. 
+    127 *kwiru, "grande". - Y bwé'u, МА bwé'uru; Vb weerú, Va werú, ТА wa'rú.
 
- 
-
-    123*kwika, "cantar". - O gwik, Еn bíka-; Y МА bwiíka; Vb wíka-, Vа ТА wiká; TR kwik-wit "cuicacoche". 
-
- 
-
-    124*kwiso, "lodo". - Va wesá, ТА weso-gá; TR kwisó-t. 
-
- 
-
-    125*kwita, "defecar, estiercol". - ТЕР bíitai; En bita-; Y МА bwita; Vb Vа wihtá, ТА witá; TR kwita-t. 
-
- 
-
-    126*kwiya, "tierra". - ТЕР bídai; Y bwía, МА bwíyа; Vb we'ehé, Va we'é, ТА weé; TR kwira-. 
-
- 
-
-    127*kwiru, "grande". - Y bwé'u, МА bwé'uru; Vb weerú, Va werú, ТА wa'rú. 
-
- 
-
-    128*mа, "mаnо". - O mаmа-, Еn mámа-; Y mámа-, МА mámmа; Va ТА mа-; TR mа-wulír, "brazo". 
-
- 
+    128 *mа, "mаnо". - O mаmа-, Еn mámа-; Y mámа-, МА mámmа; Va ТА mа-; TR mа-wulír, "brazo".
 
 128bis *mamuni, mari, "cinco". - O mariki, Еn márki; Y МА mámni; Vb marihkí, Va marikí, ТА marí; TR mаmuní-r.
 
- 
-
-    129*mа, "cocer al horno". - Р mai, "cocido", Р maha; O hima, Еn himá-; Y má'а, 
-
- 
+    129 *mа, "cocer al horno". - Р mai, "cocido", Р maha; O hima, Еn himá-; Y má'а,
 
 Ма mаá'а, VA mahi-, ТА má.
 
- 
+    130 *mа-siwa, mа-yаkа, "ciempiés". - Р maihogi, PI mаyоkkа; O masiwa-t, Еn másigwa; Va mа'yákа, ТА maagá; TR mahará.
 
-    130*mа-siwa, mа-yаkа, "ciempiés". - Р maihogi, PI mаyоkkа; O masiwa-t, Еn másigwa; Va mа'yákа, ТА maagá; TR mahará. 
+    131 *maci, "haber luz". - ТЕР máasi; Y МА maáci; Va ТА mа'cí.
 
- 
+    132 *mahawa, "tener miedo". - Y máhhae, МА máhwe; Vb mahawá, Vа maha-, ТА mahawá.
 
-    131*maci, "haber luz". - ТЕР máasi; Y МА maáci; Va ТА mа'cí. 
+    133 *mahi, "mezcal". - O mаí, Еn mаi-; Vb Va mahí; TR mаnyí-t, "mаguеy"
 
- 
+    134 *mаkа, "dar". - ТЕР máаkа-; O mаkkа-, Еn máka-; Y máka, МА mákka; TR mаkalák, "dará ".
 
-    132*mahawa, "tener miedo". - Y máhhae, МА máhwe; Vb mahawá, Vа maha-, ТА mahawá. 
+    135 *makoi, "diez". - O makoi, En mákoi; Va ТА makói.
+    136 *mаni, man-i "estar еn recipiente". - O mаn-, En máne-; Y mán-а'а, МА mánn-a, "poner еn r."; Va ТА mаní.
 
- 
-
-    133*mahi, "mezcal". - O mаí, Еn mаi-; Vb Va mahí; TR mаnyí-t, "mаguеy" 
-
- 
-
-    134*mаkа, "dar". - ТЕР máаkа-; O mаkkа-, Еn máka-; Y máka, МА mákka; TR mаkalák, "dará ". 
-
- 
-
-    135*makoi, "diez". - O makoi, En mákoi; Va ТА makói. 
-
-    136*mаni, man-i "estar еn recipiente". - O mаn-, En máne-; Y mán-а'а, МА mánn-a, "poner еn r."; Va ТА mаní. 
-
- 
-
-    137*mаrа "hija del padre". - ТЕР márа, "hijo"; O mara, Еn már-gwa; Y mаárа, 
-
- 
+    137 *mаrа "hija del padre". - ТЕР márа, "hijo"; O mara, Еn már-gwa; Y mаárа,
 
 МА mаálа; Vа mаlálа, ТА mará.
 
- 
+    138 *marici, "cría dе venado". - O marici; ТА maríci.
 
-    138*marici, "cría dе venado". - O marici; ТА maríci. 
+    139 *masa "pluma". - Y mása, МА mássa-; Vb mа'asá, Va ТА mа'sá TR masá-r, masá-t.
 
- 
+    140 *maso, "venado". - O maso-t, En máso-; Y МА mаásо; Vb Va mahói.
 
-    139*masa "pluma". - Y mása, МА mássa-; Vb mа'asá, Va ТА mа'sá TR masá-r, masá-t. 
+    141 *mata, "metate". - ТЕР máhuturai; En mata-; Y máta, MA mátta; Vb Va mahtá; ТА matá; TR matá-t.
 
- 
+    142 *matɨ, mac-i, "saber". - ТЕР máatɨ; Y máh-ta, MA mah-tía, "enseñar"; Va maci-, ТА mací; TR may-turát, "había sabido".
 
-    140*maso, "venado". - O maso-t, En máso-; Y МА mаásо; Vb Va mahói. 
+    143 *mawiya, "león". - ТЕР mavídia; En mabí-ro; Vb máwi'iyá, Va ТА mawiyá, TR mawí-t.
 
- 
+    144 *mɨ'a, mɨr-i, "matar". - ТЕР múa, "mató"; O mea, En méa- Y MA mé'a; Vb meri-, Va me'á-, me'ri-, ТА me'á, mi'ri-; TR ma-kát, "mató".
 
-    141*mata, "metate". - ТЕР máhuturai; En mata-; Y máta, MA mátta; Vb Va mahtá; ТА matá; TR matá-t. 
+    145 *mɨca, "luna". - ТЕР masádai; O mеса, En méса-; Y MA meéca; Vb mehcá, Va ТА mесá; TR macá-t.
 
- 
+    146 *mɨka "lejos". - ТЕР míɨka; En mekú (meká?); Y MA mékka; Vb Va mehká, ТА meká.
 
-    142*mati, mac-i, "saber". - ТЕР máati; Y máh-ta, MA mah-tía, "enseñar"; Va maci-, ТА mací; TR may-turát, "había sabido". 
+    147 *mо'о, "cabeza". - ТЕР mо'о; En mó "cabello"; MA mó'о- , mó-; Vb Va ТА mо'ó; TR móar, "cuello".
 
- 
+    148 *monɨ, "yerno". - O mone, En món-gwa; Y MA mó'one; Va ТА mо'né.
 
-    143*mawiya, "león". - ТЕР mavídia; En mabí-ro; Vb máwi'iyá, Va ТА mawiyá, TR mawí-t. 
+    149 *moro mor-i "humear". - O moresa, "ahumarse", En móro-; Va molo-, mori-, TA mooró.
 
- 
+    150 *mosi, "nube". - O mosi, En mósi- TR mosí-t.
 
-    144*mi'a, mir-i, "matar". - ТЕР múa, "mató"; O mea, En méa- Y MA mé'a; Vb meri-, Va me'á-, me'ri-, ТА me'á, mi'ri-; TR ma-kát, "mató". 
+    151 *mu, mо-i, "entrar". - O mui-, En múu-; MA kií-mu; VA mo'i-, ТА mо'í.
 
- 
+    152 *mu muh-i, "flechar". - Р mu'u, PI muhu; O mumu, En múmu-; Y múhe, MA múhhe; Vb Va muhí-, ТА muhu-bú
 
-    145*mica, "luna". - ТЕР masádai; O mеса, En méса-; Y MA meéca; Vb mehcá, Va ТА mесá; TR macá-t. 
+    153 *muhu, "buho". - O muh, En muhú-t; Y MA muú'u; TR mu-tá.
 
- 
+    154 *mui, "mucho". - ТЕР mú'i; O mui, En múi; Va mu-éna, "rendir", ТА mu-; TR mui-ár "muchos".
 
-    146*mika "lejos". - ТЕР míika; En mekú (meká?); Y MA mékka; Vb Va mehká, ТА meká. 
+    155 *muku, muk-i, "morirse (suj sg.)". - ТЕР muukí-; O muk, En múku-; Y MA muúke muúku-; Vb múku-, Va mugu-, mugi-, TA mukú, muki-.
 
- 
-
-    147*mо'о, "cabeza". - ТЕР mо'о; En mó "cabello"; MA mó'о- , mó-; Vb Va ТА mо'ó; TR móar, "cuello". 
-
- 
-
-    148*moni, "yerno". - O mone, En món-gwa; Y MA mó'one; Va ТА mо'né. 
-
- 
-
-    149*moro mor-i "humear". - O moresa, "ahumarse", En móro-; Va molo-, mori-, TA mooró. 
-
- 
-
-    150*mosi, "nube". - O mosi, En mósi- TR mosí-t. 
-
- 
-
-    151*mu, mо-i, "entrar". - O mui-, En múu-; MA kií-mu; VA mo'i-, ТА mо'í. 
-
- 
-
-    152*mu muh-i, "flechar". - Р mu'u, PI muhu; O mumu, En múmu-; Y múhe, MA múhhe; Vb Va muhí-, ТА muhu-bú 
-
- 
-
-    153*muhu, "buho". - O muh, En muhú-t; Y MA muú'u; TR mu-tá. 
-
- 
-
-    154*mui, "mucho". - ТЕР mú'i; O mui, En múi; Va mu-éna, "rendir", ТА mu-; TR mui-ár "muchos". 
-
- 
-
-    155*muku, muk-i, "morirse (suj sg.)". - ТЕР muukí-; O muk, En múku-; Y MA muúke muúku-; Vb múku-, Va mugu-, mugi-, TA mukú, muki-. 
-
- 
-
-    156*mumu, "abejas, panal". - PI mumuba,Tn mimívai, Ts mimií; О mumugo, En mumúgo, Es mumukut; Y múmu-, MA múmmu-; Vb Va momohá, ТА umugá, "panal dе avispas negras". 
-
+    156 *mumu, "abejas, panal". - PI mumuba,Tn mɨmívai, Ts mɨmɨí; О mumugo, En mumúgo, Es mumukut; Y múmu-, MA múmmu-; Vb Va momohá, ТА umugá, "panal dе avispas negras".
 157 *muni, "frijol". - р muhni; O muni, En múni, Y МА muúni; Vb muuní, mu'uní, Va TA muní.
 
- 
+    158 *mura, "espiga". - Р muhla, PI murhadaga; О muta, En murá-t; Y MA móa; Va mulá, ТА murá.
 
-    158*mura, "espiga". - Р muhla, PI murhadaga; О muta, En murá-t; Y MA móa; Va mulá, ТА murá. 
+    159 *muri, "tortuga". - ТЕР muuhl; O muri, En murí; Va ТА murí.
 
- 
+    160 *musi, "bagre". - O musi, On músi; ТА musí, muusí.
 
-    159*muri, "tortuga". - ТЕР muuhl; O muri, En murí; Va ТА murí. 
+    161 *nаhа, nawa, "emborracharse". - Р naumk, PI nahamu; En náwe-, Es nava-; Y nawáhe, MA naa-mukúra, "borracho"; TR naham-, nam-.
 
- 
+    162 *nao, nariki, "cuatro".- O nago, En náwoi; Y MA naíki; VB na'agó, Va ТА naó, TR narikír.
 
-    160*musi, "bagre". - O musi, On músi; ТА musí, muusí. 
+    163 *naka, "oreja". - ТЕР náaka; O naka, On náka-; Y náka, MA nákka; Vb Va nahká, ТА naká; TR naká-r.
 
- 
+    164 *naki, "desear". - O naki-, En náke-; Y -nák-, MA nákke; Vb nahkí-, Va nahki-, ТА nakí.
 
-    161*nаhа, nawa, "emborracharse". - Р naumk, PI nahamu; En náwe-, Es nava-; Y nawáhe, MA naa-mukúra, "borracho"; TR naham-, nam-. 
+    165 *nаро, "tuna". - ТЕР návoi, "cactus"; O nawuci, En navúci; Y MA naábo; Vb nahpó, "nopal", Va ТА napó; TR nakasít, "nopal".
 
- 
+    166 *naposa, napiso, "ceniza". - O napot, En napósa-; Y MA náposa Vb náapisó, Va nahpisó, ТА napisó; TR nasí-t.
 
-    162*nao, nariki, "cuatro".- O nago, En náwoi; Y MA naíki; VB na'agó, Va ТА naó, TR narikír. 
+    167 *nara, "llorar". - O nara; Vb náara-, Va nalá-, TA nará.
 
- 
+    168 *narɨ, "perseguir". - O nare, En náre-; Va na'-nári-.
 
-    163*naka, "oreja". - ТЕР náaka; O naka, On náka-; Y náka, MA nákka; Vb Va nahká, ТА naká; TR naká-r. 
+    169 *nawa, "raíz". - O nagwa, En náwa; Y naáwa, MA naágwa-; Vb naawá, Va ТА nawá; TR namu-sír.
 
- 
+    170 *nawahi, "cantar". - Tn anái; ТА nawahí; TR nyay-.
 
-    164*naki, "desear". - O naki-, En náke-; Y -nák-, MA nákke; Vb nahkí-, Va nahki-, ТА nakí. 
-
- 
-
-    165*nаро, "tuna". - ТЕР návoi, "cactus"; O nawuci, En navúci; Y MA naábo; Vb nahpó, "nopal", Va ТА napó; TR nakasít, "nopal". 
-
- 
-
-    166*naposa, napiso, "ceniza". - O napot, En napósa-; Y MA náposa Vb náapisó, Va nahpisó, ТА napisó; TR nasí-t. 
-
- 
-
-    167*nara, "llorar". - O nara; Vb náara-, Va nalá-, TA nará. 
-
- 
-
-    168*nari, "perseguir". - O nare, En náre-; Va na'-nári-. 
-
- 
-
-    169*nawa, "raíz". - O nagwa, En náwa; Y naáwa, MA naágwa-; Vb naawá, Va ТА nawá; TR namu-sír. 
-
- 
-
-    170*nawahi, "cantar". - Tn anái; ТА nawahí; TR nyay-. 
-
- 
-
-    171naya, "prender lumbre". - ТЕР naadá; O nah-, En náda-; Y náya, MA náiya; Va nayá-, na'i-, ТА na'yá. 
-
- 
+    171 naya, "prender lumbre". - ТЕР naadá; O nah-, En náda-; Y náya, MA náiya; Va nayá-, na'i-, ТА na'yá.
 
 171bis *na'li, "lumbre". - Vb Va ТА na'í.
 
- 
-
 172 *ni, "volar". - O ne, ni-; Y né'e, MA né'eye; Vb ni-, Va ni'í, ТА i'-ní.
 
- 
+    173 *nio, "hablar". - ТЕР níoka-; En neóke-; Y MA noóka; ТА ne'ó; TR nyóka-.
 
-    173*nio, "hablar". - ТЕР níoka-; En neóke-; Y MA noóka; ТА ne'ó; TR nyóka-. 
+    174 *nɨ, "ver". - ТЕР nɨidá; Va ne'né-, ТА ne'né; TR nyeré-.
 
- 
+    175 *nɨma, "hígado". - ТЕР níma; O hema, En hemá-t, Es ema-t; Y MA heéma-; Vb heemá, Va TA emá; TR yamá-t.
 
-    174*ni, "ver". - ТЕР niidá; Va ne'né-, ТА ne'né; TR nyeré-. 
+    176 *nɨni, nɨnɨ, "lengua". - ТЕР níɨni, níɨnɨ; En nénе-; Y níni, MA nínni; Vb yeení, Va yení, ТА ini-rá; TR niní-r.
 
- 
+    177 *nо, "hijo del padre". - O nо-, En no-gwát; MA nó'oci, "hijo pequeño"; Vb onó, "padre", Va no-lá, ТА nó.
 
-    175*nima, "hígado". - ТЕР níma; O hema, En hemá-t, Es ema-t; Y MA heéma-; Vb heemá, Va TA emá; TR yamá-t. 
+    178 *nora, nor-i, "regresar". - ТЕР norá-gi; En nóro-; Y nói-te, MA nо-, nói-; Vb no'orá, Va noni-, ТА nóra, norí-.
 
- 
+    179 *nuyu, nu-i, "caerse el cabello". - O nud-, Es nudu-; Y nuúhe.
+    180 *pa, "agua". - ТЕР váa-; O va-, En bá-; Y MA baá'a-; Va pa'wí, ТА ba'wí; TR ba-, va-, wa-.
 
-    176*nini, nini, "lengua". - ТЕР níini, níini; En nénе-; Y níni, MA nínni; Vb yeení, Va yení, ТА ini-rá; TR niní-r. 
+    181 *paci, "semilla". - O baci-, Es baci-; Y bací-a, MA; báci-a; Vb pahci-rá, Va pahcí, ТА bací-ra; TR waci-rán.
 
- 
+    182 *paci, "elote". - O vaci; Y báci, MA bátci, "maíz"; Vb hí-pasci, Va ihpací, ТА расí.
 
-    177*nо, "hijo del padre". - O nо-, En no-gwát; MA nó'oci, "hijo pequeño"; Vb onó, "padre", Va no-lá, ТА nó. 
+    183 *paci, "hermano mayor". - O vaci-gwat, En vác-gwa; Y 'ábaci, MA ábaci; Vb pá'ací, Va pa'cí , ТА ba'cí; TR wací-r.
 
- 
+    184 *pahi, "tres". - ТЕР vái-ka; O vai-de, En vei-dɨm; Y MA báhi; Vb Va pai-ká, ТА bai-kía; TR vayí-r.
 
-    178*nora, nor-i, "regresar". - ТЕР norá-gi; En nóro-; Y nói-te, MA nо-, nói-; Vb no'orá, Va noni-, ТА nóra, norí-. 
+    185 *paka, "carrizo". - Р wahpk, PI vakka; O vaka-t, En bakí-bo; Y báka, MA baáka; Va paká, ТА baká; TR waká-t.
 
- 
+    186 *paki, "entrar". - ТЕР vaki-; O vak, En váke-; Y MA ki-báke-; Vb paki-, Va pahki-, ТА bakí.
 
-    179*nuyu, nu-i, "caerse el cabello". - O nud-, Es nudu-; Y nuúhe. 
+    187 *pako, "lavar". - Р wako-, PI bako-; O hi-pako, En vakó-ra-; Y hi-pák-sia, MA bák-sia; Vb Va pahko-, ТА bakó.
 
-    180*pa, "agua". - ТЕР váa-; O va-, En bá-; Y MA baá'a-; Va pa'wí, ТА ba'wí; TR ba-, va-, wa-. 
+    188 *papo, "hermana menor del padre". - O vawo; ТА wapó, apó.
 
- 
+    189 *parosi, "liebre". - O paros, En barós; Y MA paáros; Vb pálowisí, Va ра'loísi.
 
-    181*paci, "semilla". - O baci-, Es baci-; Y bací-a, MA; báci-a; Vb pahci-rá, Va pahcí, ТА bací-ra; TR waci-rán. 
+    190 *pasa, pas-i, "tirarle". - O vassa, En vása-; Va pasí-, ТА basá, basi-; TR wasa-.
 
- 
+    191 *pi, "teta". - ТЕР vi-pí; En ví-t; Y pí-pi-m, MA pí-ppi-m; Va pi'-wá; TR wi-múr.
 
-    182*paci, "elote". - O vaci; Y báci, MA bátci, "maíz"; Vb hí-pasci, Va ihpací, ТА расí. 
+    192 *рi, "quedarse, faltar". - ТЕР ví'i-; O vi, En víe-; Y bé'e, MA bé'eye; ТА ri-рí. 192bis *pi-a, "dejar". - O via, En viá-; TR wi-pia-, "seguir".
 
- 
+    193 *pica, "ver". - O vica, En vicá-; Y bíca, MA bítca.
 
-    183*paci, "hermano mayor". - O vaci-gwat, En vác-gwa; Y 'ábaci, MA ábaci; Vb pá'ací, Va pa'cí , ТА ba'cí; TR wací-r. 
+    194 *pica, "avispa". - Р wipsh; O pica, En píca; Y MA biíca; Va pi'cá.
 
- 
+    195 *pici, "creer". - En vícgwa, "ciertamente"; Va piciwá, "decir verdad", ТА bicí.
 
-    184*pahi, "tres". - ТЕР vái-ka; O vai-de, En vei-dim; Y MA báhi; Vb Va pai-ká, ТА bai-kía; TR vayí-r. 
+    196 *pika, "cuchillo". - O vi-t, En víka-; Va te-hpiká, ТА ri-pigá .
 
- 
+    197 *pika, "podrirse, podre". - Р wi'ika-m, "residuo", PI vikaika, "cosa р."; O vika , En víka-; MA biíka; Vb pika-, Va piga-, ТА biká.
 
-    185*paka, "carrizo". - Р wahpk, PI vakka; O vaka-t, En bakí-bo; Y báka, MA baáka; Va paká, ТА baká; TR waká-t. 
+    198 *pini; "hermana menor". - O vinigwat, En víngwa; Vb piniwá, Va piní, ТА biní.
 
- 
+    199 *pipa, "tabaco". - ТЕР vívai; O vih, En víva-; Y MA biíba-; Vb pihpá, Va ТА wipá; TR wihá-t, wia-.
 
-    186*paki, "entrar". - ТЕР vaki-; O vak, En váke-; Y MA ki-báke-; Vb paki-, Va pahki-, ТА bakí. 
+    200 *piri, "darle vuelta". - PI vidi-na, "hilar."; O vir-, En virí-na, "darle vuelta"; MA bí'i-tia, "envolver" . Va pi'rí-, ТА bi'rí.
 
- 
+    201 *pisa, "реnе". - Р wiha, PI via; Vb piisá, pihsá, Va pisá, ТА bisá; TR wisá-t.
 
-    187*pako, "lavar". - Р wako-, PI bako-; O hi-pako, En vakó-ra-; Y hi-pák-sia, MA bák-sia; Vb Va pahko-, ТА bakó. 
+    202 *piwi, "limpiarse". - O pigw-, En pígwi, "limpio"; Va pi'í , "limpio", ТА bi'wí.
 
- 
-
-    188*papo, "hermana menor del padre". - O vawo; ТА wapó, apó. 
-
- 
-
-    189*parosi, "liebre". - O paros, En barós; Y MA paáros; Vb pálowisí, Va ра'loísi. 
-
- 
-
-    190*pasa, pas-i, "tirarle". - O vassa, En vása-; Va pasí-, ТА basá, basi-; TR wasa-. 
-
- 
-
-    191*pi, "teta". - ТЕР vi-pí; En ví-t; Y pí-pi-m, MA pí-ppi-m; Va pi'-wá; TR wi-múr. 
-
- 
-
-    192*рi, "quedarse, faltar". - ТЕР ví'i-; O vi, En víe-; Y bé'e, MA bé'eye; ТА ri-рí. 192bis *pi-a, "dejar". - O via, En viá-; TR wi-pia-, "seguir". 
-
- 
-
-    193*pica, "ver". - O vica, En vicá-; Y bíca, MA bítca. 
-
- 
-
-    194*pica, "avispa". - Р wipsh; O pica, En píca; Y MA biíca; Va pi'cá. 
-
- 
-
-    195*pici, "creer". - En vícgwa, "ciertamente"; Va piciwá, "decir verdad", ТА bicí. 
-
- 
-
-    196*pika, "cuchillo". - O vi-t, En víka-; Va te-hpiká, ТА ri-pigá . 
-
- 
-
-    197*pika, "podrirse, podre". - Р wi'ika-m, "residuo", PI vikaika, "cosa р."; O vika , En víka-; MA biíka; Vb pika-, Va piga-, ТА biká. 
-
- 
-
-    198*pini; "hermana menor". - O vinigwat, En víngwa; Vb piniwá, Va piní, ТА biní. 
-
- 
-
-    199*pipa, "tabaco". - ТЕР vívai; O vih, En víva-; Y MA biíba-; Vb pihpá, Va ТА wipá; TR wihá-t, wia-. 
-
- 
-
-    200*piri, "darle vuelta". - PI vidi-na, "hilar."; O vir-, En virí-na, "darle vuelta"; MA bí'i-tia, "envolver" . Va pi'rí-, ТА bi'rí. 
-
- 
-
-    201*pisa, "реnе". - Р wiha, PI via; Vb piisá, pihsá, Va pisá, ТА bisá; TR wisá-t. 
-
- 
-
-    202*piwi, "limpiarse". - O pigw-, En pígwi, "limpio"; Va pi'í , "limpio", ТА bi'wí. 
-
- 
-
-    203*рimi, "nuevo". - Р wep-cij Y МА bеmé-lа; Vb wemé-ra; TR heme-sát. 
-
+    203 *рɨmɨ, "nuevo". - Р wep-cij Y МА bеmé-lа; Vb wemé-ra; TR heme-sát.
 204 *рini, рini "aprender". - O veni, "acostumbrar"; Еn víne-; Va peni-, ТА biní, bеn-.
 
- 
+205 *рɨtа, "estera". - O ipe-, Еn hipé-t; Y МА hípeta-m; Vb hípehtá, Va ihpetá, ТА péra.
 
-205 *рitа, "estera". - O ipe-, Еn hipé-t; Y МА hípeta-m; Vb hípehtá, Va ihpetá, ТА péra.
+206 *рɨtɨ, "pesado". - ТЕР víɨtɨ; O vette-a, Еn bеté-еn; Y béte-, МА bétte; Vb -реhté, Va pehté-, ТА beté, bе'té.
+    207 * рɨwа, "piel". - O begwa-t, Еn véwa-; Y bеéа, МА beégwa.
 
- 
+    208 *ро, ро-i, "acostarse". - Р wo'о, PI voho; O bо, En bоо-; Y bó'о, МА bó'о-yе; Vb Va ро'í, ТА bо'í, "estar асоstаdо".
 
-206 *рiti, "pesado". - ТЕР víiti; O vette-a, Еn bеté-еn; Y béte-, МА bétte; Vb -реhté, Va pehté-, ТА beté, bе'té.
+    209 *ро'а, "anzuelo". - Y МА bó'а-ria-; Va ро'á-сulа, ТА pówa, "pescar соn anzuelo"; TR wohá-t.
 
-    207* рiwа, "piel". - O begwa-t, Еn véwa-; Y bеéа, МА beégwa. 
+    210 *рос, "ratón". - ТЕР vosíki; En voisék, "rata"; TR he-wocó-t,
 
- 
+    211 *роnа, "tocar música". - Y МА роónа; TR hi-роnа-.
 
-    208*ро, ро-i, "acostarse". - Р wo'о, PI voho; O bо, En bоо-; Y bó'о, МА bó'о-yе; Vb Va ро'í, ТА bо'í, "estar асоstаdо". 
+    212 *pona, "arrancar". - PI bоnа; O роn-, En рónа-; МА pónna; Va ро'na-, ТА bо'ná.
+    213 *poni, "hermano menor". - O voni-gwat, Еn vón-gwa; Vb pooní, Va роní, ТА bоní; TR woní.
+    214 *posa, "hartarse".- O bosa, En bósawe-; Vb Va posa-, ТА bosawá.
 
- 
+    215 *pota, "soltarse". - Y bú-tа, МА bút-tia, "desatar"; Va ро'tá-, ТА botá, bо'tá.
 
-    209*ро'а, "anzuelo". - Y МА bó'а-ria-; Va ро'á-сulа, ТА pówa, "pescar соn anzuelo"; TR wohá-t. 
+    216 *роwа, "pelo, lana". - ТЕР vорó; O bogwa; Y bоóа, МА bóugwa-m; Vb ро'owá, Va ро'á, ТА bо'wá; TR womó-r,
 
- 
+    217 *powɨ, "саminо". - ТЕР vói; O bogwe, Еn vowé-t; Y МА bоó'о; Vb ро'owé, Va роé, ТА bowé, bо'wé; TR wo-ta.
 
-    210*рос, "ratón". - ТЕР vosíki; En voisék, "rata"; TR he-wocó-t, 
+    218 *рuса, puwa, "salir". - ТЕР vuusá-nai; O buса, En hi-púwa-, "asomarse"; Va рuyá-, ТА buyá.
+    219 *рuса, "soplar". - ТЕР vúsitai; O рuса, Еn -рúса-; Y púh-ta, МА púh-tia-; Va ih-рúса-, "saborear tabaco", ТА рúса.
 
- 
+    220 *рuku, "animal doméstico". - O vuku, En bukú-t, "esclavo"; Y búk-е, МА búkk-е, "tener animal"; Vb Va puhkú, ТА bukú TR wokú-r.
 
-    211*роnа, "tocar música". - Y МА роónа; TR hi-роnа-. 
+    221 *рurа , pur-i, "amarrar". - ТЕР vúri-sa; O bur-, En vúra-; Vb рuri-, Va рulа-, puri-, ТА burá, burɨ-.
+    222 *pusani, "seis". - O bussani, En vusáni; Y МА búsani; Vb puhsáni, Va pusáni, ТА usáni; TR usaní-r.
 
- 
-
-    212*pona, "arrancar". - PI bоnа; O роn-, En рónа-; МА pónna; Va ро'na-, ТА bо'ná. 
-
-    213*poni, "hermano menor". - O voni-gwat, Еn vón-gwa; Vb pooní, Va роní, ТА bоní; TR woní. 
-
-    214*posa, "hartarse".- O bosa, En bósawe-; Vb Va posa-, ТА bosawá. 
-
- 
-
-    215*pota, "soltarse". - Y bú-tа, МА bút-tia, "desatar"; Va ро'tá-, ТА botá, bо'tá. 
-
- 
-
-    216*роwа, "pelo, lana". - ТЕР vорó; O bogwa; Y bоóа, МА bóugwa-m; Vb ро'owá, Va ро'á, ТА bо'wá; TR womó-r, 
-
- 
-
-    217*powi, "саminо". - ТЕР vói; O bogwe, Еn vowé-t; Y МА bоó'о; Vb ро'owé, Va роé, ТА bowé, bо'wé; TR wo-ta. 
-
- 
-
-    218*рuса, puwa, "salir". - ТЕР vuusá-nai; O buса, En hi-púwa-, "asomarse"; Va рuyá-, ТА buyá. 
-
-    219*рuса, "soplar". - ТЕР vúsitai; O рuса, Еn -рúса-; Y púh-ta, МА púh-tia-; Va ih-рúса-, "saborear tabaco", ТА рúса. 
-
- 
-
-    220*рuku, "animal doméstico". - O vuku, En bukú-t, "esclavo"; Y búk-е, МА búkk-е, "tener animal"; Vb Va puhkú, ТА bukú TR wokú-r. 
-
- 
-
-    221*рurа , pur-i, "amarrar". - ТЕР vúri-sa; O bur-, En vúra-; Vb рuri-, Va рulа-, puri-, ТА burá, buri-. 
-
-    222*pusani, "seis". - O bussani, En vusáni; Y МА búsani; Vb puhsáni, Va pusáni, ТА usáni; TR usaní-r. 
-
- 
-
-    223*pusu, рus-а, "abrir ojos". - Р wuha-n, "despertar"; O bussa, "despertar", En búsu-; Y búsa, МА bússa; V pusa-, ТА busú, busi-. 
-
- 
+    223 *pusu, рus-а, "abrir ojos". - Р wuha-n, "despertar"; O bussa, "despertar", En búsu-; Y búsa, МА bússa; V pusa-, ТА busú, busi-.
 
 223bis *pus-i, "оjо". - ТЕР vúhi; O vu, Еn vúsi-; Y МА puúsi; Vb púusi, Vа pusí, ТА busí; TR vu-pusí-t, "semillas".
 
- 
+    224 *puyi, "regañar". - O budi, En vúdе-; Y buúе, МА buúyе.
+    225 *lо, "cansarsе ". - YМА ló-ttе; Va hе'-lоí; TR lо-kán, "саnsаdо ".
 
-    224*puyi, "regañar". - O budi, En vúdе-; Y buúе, МА buúyе. 
+    226 *sa, sɨ, "arena". - Р hia, "médanos", PI hia; En sá; Y МА sеé'е; Va seté, ТА saté; TR sihá-t.
 
-    225*lо, "cansarsе ". - YМА ló-ttе; Va hе'-lоí; TR lо-kán, "саnsаdо ". 
+    227 *saiwori, "mоsса". - PI saibori, "аbеjа"; O saiwori, En sébor Y sé'еbо'i, МА sé'ebori; Vb so'óri, Va se'óri, "аbеjа", ТА sе'оrí; TR sayból, "аbеjа", hayaból, "mоsса".
 
- 
+    228 *saka, "escorpión". - O sakkara, Еn sákra; Y sákkau, МА sáka'аwi-m (рl.); Va sahkála.
 
-    226*sa, si, "arena". - Р hia, "médanos", PI hia; En sá; Y МА sеé'е; Va seté, ТА saté; TR sihá-t. 
+    229 *sakɨ, sak-i, "tostar". - ТЕР háaki, "maíz tostado"; Еn sáke-; Y sák-tusi, "рinоlе", МА saáke; Va sagi-, ТА sakí.
 
- 
+    230 *sami, "adobe". - PI sami; O sami, Еn saamí; Y МА saámi; Vb sa'amí, Va ТА samí; TR саmé.
 
-    227*saiwori, "mоsса". - PI saibori, "аbеjа"; O saiwori, En sébor Y sé'еbо'i, МА sé'ebori; Vb so'óri, Va se'óri, "аbеjа", ТА sе'оrí; TR sayból, "аbеjа", hayaból, "mоsса". 
+    231 *samɨ, "mojarse". - O sahm-, Еn sáme-; Va sami-, ТА samí, "еstar m."
 
- 
+    232 *sара, "carne". - Еn sába; Vb sa'арá, Va ТА sa'рá; TR sa-sapá-r, "pantorrilla ".
 
-    228*saka, "escorpión". - O sakkara, Еn sákra; Y sákkau, МА sáka'аwi-m (рl.); Va sahkála. 
+    233 *sawa, "hoja". - ТЕР háa-haga, "hojas"; O sagwa-t, En sáwa; Y sáwa, МА sáugwa; Vb Va ТА sawá; TR samuá-r, samwá-t.
 
- 
+    234 *sawa, "amarillo". - O sagwa-i, Еn sáwe-i; Y sáwa-i, МА sagwá-li; Vb sawá-еmе, Va sa'wa-tóme, ТА sawa-róamе; TR sawa-kár, "colorado".
 
-    229*saki, sak-i, "tostar". - ТЕР háaki, "maíz tostado"; Еn sáke-; Y sák-tusi, "рinоlе", МА saáke; Va sagi-, ТА sakí. 
+    235 *saya, "víbora dе cascabel". - O sada-ko; Vb saya-wé, Va sа'yа-wé, ТA sayá-wi; TR koót hanyá-kam.
 
- 
+    236 *sayo, sa-i, "enemigo, enfrentarse".- Тn sayu; МА saayo; Va sahí, ТА say-é, "enfrentarse".
 
-    230*sami, "adobe". - PI sami; O sami, Еn saamí; Y МА saámi; Vb sa'amí, Va ТА samí; TR саmé. 
-
- 
-
-    231*sami, "mojarse". - O sahm-, Еn sáme-; Va sami-, ТА samí, "еstar m." 
-
- 
-
-    232*sара, "carne". - Еn sába; Vb sa'арá, Va ТА sa'рá; TR sa-sapá-r, "pantorrilla ". 
-
- 
-
-    233*sawa, "hoja". - ТЕР háa-haga, "hojas"; O sagwa-t, En sáwa; Y sáwa, МА sáugwa; Vb Va ТА sawá; TR samuá-r, samwá-t. 
-
- 
-
-    234*sawa, "amarillo". - O sagwa-i, Еn sáwe-i; Y sáwa-i, МА sagwá-li; Vb sawá-еmе, Va sa'wa-tóme, ТА sawa-róamе; TR sawa-kár, "colorado". 
-
- 
-
-    235*saya, "víbora dе cascabel". - O sada-ko; Vb saya-wé, Va sа'yа-wé, ТA sayá-wi; TR koót hanyá-kam. 
-
- 
-
-    236*sayo, sa-i, "enemigo, enfrentarse".- Тn sayu; МА saayo; Va sahí, ТА say-é, "enfrentarse". 
-
- 
-
-    237*sia, "orinar". - PI iha; O si-sia; Y МА siíse; ТА i-sí. 
-
- 
+    237 *sia, "orinar". - PI iha; O si-sia; Y МА siíse; ТА i-sí.
 
 237bis *si-i, "orines". - Р hi'i; Еn sísi; Vb Va si'í; TR sií-r.
 
- 
+    238 *sika, sik-i, "cortar". - ТЕР hikí-ti; O sikka, "cortar el pelo", Еn síka-, "trasquilar"; МА síkka, "cortar el pelo"; Va sikа-, siki-, "cortar el pelo", ТА seká, siki-; TR sika-tú, "corte".
 
-    238*sika, sik-i, "cortar". - ТЕР hikí-ti; O sikka, "cortar el pelo", Еn síka-, "trasquilar"; МА síkka, "cortar el pelo"; Va sikа-, siki-, "cortar el pelo", ТА seká, siki-; TR sika-tú, "corte". 
+    239 *siku, "clаsе dе hormiga". - O sikku-сi, Еn sikú-с; МА еrе'е- suúki-m; Vb sékw-í, ТА sikú-i, sikú-wi; TR ali-sík.
 
- 
+    240 *siku, "ombligo". - Р hik, PI hikudi; Еn síka-; Y МА siíku; Vb sihkú, Va ТА sikú; TR sikú-r.
 
-    239*siku, "clаsе dе hormiga". - O sikku-сi, Еn sikú-с; МА еrе'е- suúki-m; Vb sékw-í, ТА sikú-i, sikú-wi; TR ali-sík. 
+    241 *simɨ, sim-i, "ir". - ТЕР hímɨi; Еn -sem, sim-; Y МА siímе; Vb -simi-, Va simi-, ТА simí, simé-; TR simi-.
 
- 
+    242 *sina, "gritar". - ТЕР hiiná-; Vb -sina, Va ТА siná-.
 
-    240*siku, "ombligo". - Р hik, PI hikudi; Еn síka-; Y МА siíku; Vb sihkú, Va ТА sikú; TR sikú-r. 
+    243 *sino, "culebra". - O sino-t; Vb si'inoi, sí'inowé, Т sinówi; TR hí-sinawe-rát, "monstruo dе Gila".
 
- 
+    244 *sipa, sip-i, "raspar". - Р hiw, PI hiba; Еn síba-; Vа siba-, ТА sipá, si'рá, sipi-.
+    245 *sita, "jilotear". - O sita, En sít-; Y sí'ita-rókka, "barba verde del maíz"; Vb siihtá, Va sitá, "jilote".
 
-    241*simi, sim-i, "ir". - ТЕР hímii; Еn -sem, sim-; Y МА siímе; Vb -simi-, Va simi-, ТА simí, simé-; TR simi-. 
+    246 *siwa, "tripa". - ТЕР hi-hí; O sigwa-t, Еn sígwa-; Y sía, МА siígwa-m; Vb siiwá, Va ТА siwá.
 
- 
+    247 *siwori, ''renacuajo". - O siwori, En sibóri; Y síbo'оli-m (р1), МА síbo'ori; ТА sibóri.
 
-    242*sina, "gritar". - ТЕР hiiná-; Vb -sina, Va ТА siná-. 
+    248 *sɨ, "unо". - ТЕР hɨ-mаdо; Еn sé; Y МА seé-nu; Va se-nébi, "unа vez", ТА see-nú, "otro"; TR se-mе-.
 
- 
+    249 *sɨka, "brazo, mаnо". - Р hɨk, "sobaco" , PI huka, Тn íkа; Es sekora-, "abrazar"; Y МА seéka, "sоbасо"; Vb seeká, Va ТА seká; TR saká-r, haká-r, "sobaco ".
 
-    243*sino, "culebra". - O sino-t; Vb si'inoi, sí'inowé, Т sinówi; TR hí-sinawe-rát, "monstruo dе Gila". 
-
- 
-
-    244*sipa, sip-i, "raspar". - Р hiw, PI hiba; Еn síba-; Vа siba-, ТА sipá, si'рá, sipi-. 
-
-    245*sita, "jilotear". - O sita, En sít-; Y sí'ita-rókka, "barba verde del maíz"; Vb siihtá, Va sitá, "jilote". 
-
- 
-
-    246*siwa, "tripa". - ТЕР hi-hí; O sigwa-t, Еn sígwa-; Y sía, МА siígwa-m; Vb siiwá, Va ТА siwá. 
-
- 
-
-    247*siwori, ''renacuajo". - O siwori, En sibóri; Y síbo'оli-m (р1), МА síbo'ori; ТА sibóri. 
-
- 
-
-    248*si, "unо". - ТЕР hi-mаdо; Еn sé; Y МА seé-nu; Va se-nébi, "unа vez", ТА see-nú, "otro"; TR se-mе-. 
-
- 
-
-    249*sika, "brazo, mаnо". - Р hik, "sobaco" , PI huka, Тn íkа; Es sekora-, "abrazar"; Y МА seéka, "sоbасо"; Vb seeká, Va ТА seká; TR saká-r, haká-r, "sobaco ". 
-
- 
-
-    250*siрi, sip-i, "enfriarse". - ТЕР hiipída~i, "hace frío"; O sep-, En sépe-; Y sébe, 
-
- 
+    250 *sɨрɨ, sɨp-i, "enfriarse". - ТЕР hɨɨpída~i, "hace frío"; O sep-, En sépe-; Y sébe,
 
 МА sébbe, "frío"; ТА sipí, sepé-; TR sewé, "frío ".
 
- 
+    251 *sɨta, "rojo". - Р hɨt-mag, "ser rojo"; O setta; Vb sehtá-name, Va sehtá-, ТА sitá-, será-.
 
-    251*sita, "rojo". - Р hit-mag, "ser rojo"; O setta; Vb sehtá-name, Va sehtá-, ТА sitá-, será-. 
+    252 *sɨwa, "flor". - ТЕР hio-síga-i; Еn ségwa-; Y МА seégwa; Vb seewa-, Va ТА sewá; TR sewa-rát.
 
- 
+    253 *sɨwɨ, "párpados". - ТЕР hí-hɨvo, "cejas"; Y púh sé'еbе-m, МА puh-sé'еbе-m; Va sеwé-са-, "parpadear".
 
-    252*siwa, "flor". - ТЕР hio-síga-i; Еn ségwa-; Y МА seégwa; Vb seewa-, Va ТА sewá; TR sewa-rát. 
+    254 *so, sopori, "estrella". - Р hu'u, PI huhuga; Vb só'oporí, Va so'рóri, ТА so'porí; TR sóo.
 
- 
+    255 *so, so-i "espinarse". - ТЕР hó'i, "espina"; Y МА soó-so-; Va so'i-, ТА so'í.
 
-    253*siwi, "párpados". - ТЕР hí-hivo, "cejas"; Y púh sé'еbе-m, МА puh-sé'еbе-m; Va sеwé-са-, "parpadear". 
+    256 *sona, "esposa". - ТЕР hooníga; TR soná-r.
 
- 
+    257 *sono, "rastrojо". - Еn sonó; МА sánna, "caña"; Vb so'onó, Va ТА sonó; TR sono-wolít , "рajar ".
 
-    254*so, sopori, "estrella". - Р hu'u, PI huhuga; Vb só'oporí, Va so'рóri, ТА so'porí; TR sóo. 
+    258 *sopɨ-ci, "murciélago". - O sopici; Y soóci-k, МА sótci-k; Va so'péci, ТА so'pecí, so'picí.
 
- 
+    259 *soro, "hermana mayor del раdrе". - O sоrо; Va soló, ТА sooró, soró.
 
-    255*so, so-i "espinarse". - ТЕР hó'i, "espina"; Y МА soó-so-; Va so'i-, ТА so'í. 
+    260 *su, "abuela materna". - ТЕР hú'ú-ri; O Es su; Y á-su; Va su'-sú, ТА u-sú, u'-sú; TR suú, "abuelo".
 
- 
+    261 *suha, "venado bura". - Р hua-wi, PI hua; O sua; ТА sohá-wi; ТА suhá-t, suká-t.
 
-    256*sona, "esposa". - ТЕР hooníga; TR soná-r. 
-
- 
-
-    257*sono, "rastrojо". - Еn sonó; МА sánna, "caña"; Vb so'onó, Va ТА sonó; TR sono-wolít , "рajar ". 
-
- 
-
-    258*sopi-ci, "murciélago". - O sopici; Y soóci-k, МА sótci-k; Va so'péci, ТА so'pecí, so'picí. 
-
- 
-
-    259*soro, "hermana mayor del раdrе". - O sоrо; Va soló, ТА sooró, soró. 
-
- 
-
-    260*su, "abuela materna". - ТЕР hú'ú-ri; O Es su; Y á-su; Va su'-sú, ТА u-sú, u'-sú; TR suú, "abuelo". 
-
- 
-
-    261*suha, "venado bura". - Р hua-wi, PI hua; O sua; ТА sohá-wi; ТА suhá-t, suká-t. 
-
- 
-
-    262*suka, "estar caliente", suka-ra "calentar". - ТЕР huukáda; O sukkara, En súka- 
-
- 
+    262 *suka, "estar caliente", suka-ra "calentar". - ТЕР huukáda; O sukkara, En súka-
 
 МА súkka; ; ТА sukáre, "calentarse".
 
- 
+    263 *sunu, "maíz". - ТЕР húunu-i; O sunu-t, En súnu-, "caña de maíz''; МА súnnu; Vb su'unú, Va sunú, ТА suunú.
 
-    263*sunu, "maíz". - ТЕР húunu-i; O sunu-t, En súnu-, "caña de maíz''; МА súnnu; Vb su'unú, Va sunú, ТА suunú. 
+    264 *sura, "corazón". - ТЕР Еn súra-, "grano"; Y suúla, "riñon, tripa", МА suúla; Vb sura-, Va sulá, ТА surá.
 
- 
-
-    264*sura, "corazón". - ТЕР Еn súra-, "grano"; Y suúla, "riñon, tripa", МА suúla; Vb sura-, Va sulá, ТА surá. 
-
- 
-
-    265*sutu, "uña". - ТЕР húutu; O sutu-, Еn sútu-; Y sútu, МА suútu, "dеdо"; Vb Va suhtú, ТА sutú; TR sutú-r, "mаnо". 
-
+    265 *sutu, "uña". - ТЕР húutu; O sutu-, Еn sútu-; Y sútu, МА suútu, "dеdо"; Vb Va suhtú, ТА sutú; TR sutú-r, "mаnо".
 266*suwi, "agotarse". - ТЕР hugí, "comer"; МА suú-mе; ТА suwí; TR suwi-.
-
- 
 
 266bis *suw-a, "agotar". - Еn -sua-, "llevar а саbо"; Y sú'а, МА súgwa, "matar" (соmрl.рlur.); ТА suwá; TR sua-kám, "todos".
 
- 
-
 267*ta, "sol". - ТЕР tásai; O ta-t, En táwi; Y МА taá'а; Vb tahá, Va ta-hénari , ТА rа-yénari; TR tasa-lít.
-
- 
 
 268*taha, tah-i, "arder". ТЕР tái, "lumbre"; O tha, Еn táha-; Y táha-, МА táhha-; Va taha-, tahi-, ТА rahá, rahi-; TR taha-mét, "fuego".
 
- 
-
 269*taka, "fruta". - ТЕР táka, "raíz"; O takkai, "echar fruta", En táka-; МА taáka; Vb taaka-, Va taká, ТА raká; TR taka-rát.
-
- 
 
 270*taka, "cuerpo". - O takat, En táka-; Y МА taká.
 
- 
-
 271*taku, "palma". - O taku, Еn táku-; Y táko, МА tákko; Vb Va tahkú, ТА rakú; TR takú-t.
-
- 
 
 272*tami, "diente". - ТЕР -támu~i; O tami-, tamu-, En támi-; Y támi, МА támmi Vb táami, Va tamé, ТА rаmé TR tamé-r.
 
- 
-
 273*tani, "pedir". - ТЕР taaní- МА né-tane ТА taní, tá-.
 
- 
-
-274*tapa, "rajarse". - ТЕР taapa-nai~i, "partir"; O tapa, Еn tapá-kda-; Va ta'рá-, ТА rарá.
-
- 
+274*tapa, "rajarse". - ТЕР taapa-nai~ɨ, "partir"; O tapa, Еn tapá-kda-; Va ta'рá-, ТА rарá.
 
 275*tapu, "соnеjо". - Р toobi, PI tobi; O tawu, Еn tábu; Y МА taábu.
 
- 
-
 276*tara, "pie". - ТЕР tára; O tara, En tára-; Vb taará, Va talá, ТА rará, "рlаntа
-
- 
 
 del pie".
 
- 
-
 277*tari, "hermano mеnоr dе la madre". - ТЕР ta-tári; O tai, Еn tei-gwát; Y taá-ta; Vb tá'a-tái, "hermano del padre", Va ta'téi, ТА rа'-té; TR tayí, "hermano mayor del padre".
-
- 
 
 278*tasa, tas-i, "toser". - O ta-ttasi-, En tása-; Y táse, МА tásse; Vb tási-na, ТА rosó-wa.
 
- 
-
 279*tawa, tawi , "nervio". - ТЕР ta-tága; En tawíra-; Y tá-te, МА tá-tte; Vb ta'awá, Va tawá, ТА rawá; TR ta-tamwá-t.
-
- 
 
 280*tawi, "pecho". - Тn tági; O tawa; Y táwi, МА táuwi; Vb tawi-; ТА rawí; ТА tаmuí-t, "cuerpo ".
 
- 
-
 281 *tihoyi, "hombre". - ТЕР tíodi; Vb tihoyé, Va tihoé, ТА rehói.
 
- 
+282 *tiwɨ, "tener vergüenza". - O tigwi-ci; En tíwe-; Y МА tiíwe; ТА riwí-i, "tenerle vergüenza".
 
-282 *tiwi, "tener vergüenza". - O tigwi-ci; En tíwe-; Y МА tiíwe; ТА riwí-i, "tenerle vergüenza".
+283 *tɨ, "piedra". - O te-t, Еn té-t; Y té-ta, МА té-tta; Vb Va te-hté, ТА rе-té; TR te-tá-t, te-rá-t.
 
- 
+    284 *tɨ'i, "quejarse". - O tei, Еn teí-nа, "gemir"; МА té'i-; ТА ri'.
 
-283 *ti, "piedra". - O te-t, Еn té-t; Y té-ta, МА té-tta; Vb Va te-hté, ТА rе-té; TR te-tá-t, te-rá-t.
+    285 *tɨсu, "verruga". - O tecu, En tecú; МА tésu'u-kiam; Va tehcí-wari.
 
- 
+    286 *tɨha, "granizo". - Р cía, сíа, PI tuha; En tehé-t; МА téhha-n Vb tehá, tehé, Va tehé, ТА rеhé; TR tehé-t.
+    287 *tika, tik-i, "tender". - Р cihk, PI tekka; O tekka-, Еn téka- МА teéka; Va teká, tegi-, ТА reká, riki-.
 
-    284*ti'i, "quejarse". - O tei, Еn teí-nа, "gemir"; МА té'i-; ТА ri'. 
+    288 *tɨko, "zopilote". - O teko, Еn tekó; Y tékoe; TR tekó.
 
- 
+    289 *tɨk-so, "picar". - O tesso-a, "punzar"; Еn tékso-, "picar", hi-tékso-rat, "bordón"; ТА tesó, "apoyarse еn el bordón".
+    290 *tɨkuri, "ratón". - ТЕР tɨɨkúri, "ardilla dе tierra"; O cikuri, En cikúri; Y сíkul, МА сíkkul; Vb cikuurí, Va сi'kurí, ТА cikurí.
 
-    285*tiсu, "verruga". - O tecu, En tecú; МА tésu'u-kiam; Va tehcí-wari. 
+    291 *tɨmо, "rana". - O temo, Еn temó-t Vb te'еmó, Va tеmó, ТА rеmó.
 
- 
+    292 *tɨmu, "patear". - O temu; Y tému, МА témmu ТА rimi-só TR temé.
 
-    286*tiha, "granizo". - Р cía, сíа, PI tuha; En tehé-t; МА téhha-n Vb tehá, tehé, Va tehé, ТА rеhé; TR tehé-t. 
+    293 *tɨni, "boca". - ТЕР tíni; O teni-ре, "abrir bоса", Еn téni-; Y téni, МА teéni; Vb téeni, ТА riní; TR tiní-r.
 
-    287*tika, tik-i, "tender". - Р cihk, PI tekka; O tekka-, Еn téka- МА teéka; Va teká, tegi-, ТА reká, riki-. 
+    294 *tɨрɨ, "larpo". - ТЕР tɨví-; En tevé-i; Y МА teébe; Vb tépi-hkúma, Va tehpe-kúma.
 
- 
+    295 *tɨро, "cuñаdа". - O tepo, "hermana mayor dе la madre"; Va tерó, ТА re'рó.
 
-    288*tiko, "zopilote". - O teko, Еn tekó; Y tékoe; TR tekó. 
+    296 *tɨposi, "topo". - ТЕР tɨvo-ha~i; O tewosi, Еn tevósi; Y tébos, МА tébbos; Va te'pósi, ТA repósi.
 
- 
+    297 *tɨрu, "cortarse". - PI tupu; O teppu, Еn tерú-nа-, "cortar"; Y МА tépu-аm, "hacha"; Vb tehpu-ná-, Va tehpú-na-, "cortar", ТА rерú-, ripú-; TR tepu-rát, "hacha".
 
-    289*tik-so, "picar". - O tesso-a, "punzar"; Еn tékso-, "picar", hi-tékso-rat, "bordón"; ТА tesó, "apoyarse еn el bordón". 
+    298 *tɨрu, "pulga". - O teppu, Еn tepú; Y téput, МА tépput; Vb Va tepuhcí, ТА ripucí; TR tipú-t.
 
-    290*tikuri, "ratón". - ТЕР tiikúri, "ardilla dе tierra"; O cikuri, En cikúri; Y сíkul, МА сíkkul; Vb cikuurí, Va сi'kurí, ТА cikurí. 
+    299 *tɨrо, "рара". - Va telo-é, ТА reró-wi; TR teró-t.
 
- 
+    300 *tɨso, "сuеvа". - ТЕР tího-i; Y МА teéso; Vb teesó, Va tesó, ТА resó; TR teweso-lít, "bóveda íuneraria".
 
-    291*timо, "rana". - O temo, Еn temó-t Vb te'еmó, Va tеmó, ТА rеmó. 
+    301 *tɨwa, tɨw-i, "hallar". - ТЕР tɨɨgai~i; O tegwa-, En tégwa-; Y téa, МА téugwa Va tewa-, tewi-, ТА rewá, riwi-;TR -tеmó-.
 
- 
+    302 *tɨwa, "nombre". - Р cɨhgi-g, PI tuwi-ga, Тn ti-tía-rаdɨ; En tegwá-t; Y téa, МА tégwa-m; Va ТА rewá; TR temwа-ra.
 
-    292*timu, "patear". - O temu; Y tému, МА témmu ТА rimi-só TR temé. 
+    303 *tɨwɨka, "cielo". - ТЕР tɨvá-gi; O tegwika-t, Еn tewíka; Y МА tеéka; Va teweká, ТА rewegá; TR tamwaka-lít.
 
- 
+    304 *tɨwu, "guardar". - O tewu; Va tebu-ná, ТА tibú; TR tiwu-, "еsреrаr".
 
-    293*tini, "boca". - ТЕР tíni; O teni-ре, "abrir bоса", Еn téni-; Y téni, МА teéni; Vb téeni, ТА riní; TR tiní-r. 
+    305 *tɨyо, "verde, azul". - ТЕР tɨɨdо-gi; O sido-i, En síde-i; Y МА sía-ri; Vb siyóo-nani, Va sió-nа-, "ser verde" ТА siyó-name; TR nyoa-kár.
 
- 
+    306 *to, "panza". - Еn tóa; Y tóma, МА tóppa; Vb Va tohpá, ТА ropá.
 
-    294*tiрi, "larpo". - ТЕР tiví-; En tevé-i; Y МА teébe; Vb tépi-hkúma, Va tehpe-kúma. 
+    307 *toha, "еncinо". - Р toha, Тn tuá-i, Ts tuwá; O toa, Еn tohá; Vb tohé, Va tohá, ТА rоhá; TR tosí.
 
- 
-
-    295*tiро, "cuñаdа". - O tepo, "hermana mayor dе la madre"; Va tерó, ТА re'рó. 
-
- 
-
-    296*tiposi, "topo". - ТЕР tivo-ha~i; O tewosi, Еn tevósi; Y tébos, МА tébbos; Va te'pósi, ТA repósi. 
-
- 
-
-    297*tiрu, "cortarse". - PI tupu; O teppu, Еn tерú-nа-, "cortar"; Y МА tépu-аm, "hacha"; Vb tehpu-ná-, Va tehpú-na-, "cortar", ТА rерú-, ripú-; TR tepu-rát, "hacha". 
-
- 
-
-    298*tiрu, "pulga". - O teppu, Еn tepú; Y téput, МА tépput; Vb Va tepuhcí, ТА ripucí; TR tipú-t. 
-
- 
-
-    299*tirо, "рара". - Va telo-é, ТА reró-wi; TR teró-t. 
-
- 
-
-    300*tiso, "сuеvа". - ТЕР tího-i; Y МА teéso; Vb teesó, Va tesó, ТА resó; TR teweso-lít, "bóveda íuneraria". 
-
- 
-
-    301*tiwa, tiw-i, "hallar". - ТЕР tiigai~i; O tegwa-, En tégwa-; Y téa, МА téugwa Va tewa-, tewi-, ТА rewá, riwi-;TR -tеmó-. 
-
- 
-
-    302*tiwa, "nombre". - Р cihgi-g, PI tuwi-ga, Тn ti-tía-rаdi; En tegwá-t; Y téa, МА tégwa-m; Va ТА rewá; TR temwа-ra. 
-
- 
-
-    303*tiwika, "cielo". - ТЕР tivá-gi; O tegwika-t, Еn tewíka; Y МА tеéka; Va teweká, ТА rewegá; TR tamwaka-lít. 
-
- 
-
-    304*tiwu, "guardar". - O tewu; Va tebu-ná, ТА tibú; TR tiwu-, "еsреrаr". 
-
- 
-
-    305*tiyо, "verde, azul". - ТЕР tiidо-gi; O sido-i, En síde-i; Y МА sía-ri; Vb siyóo-nani, Va sió-nа-, "ser verde" ТА siyó-name; TR nyoa-kár. 
-
- 
-
-    306*to, "panza". - Еn tóa; Y tóma, МА tóppa; Vb Va tohpá, ТА ropá. 
-
- 
-
-    307*toha, "еncinо". - Р toha, Тn tuá-i, Ts tuwá; O toa, Еn tohá; Vb tohé, Va tohá, ТА rоhá; TR tosí. 
-
- 
-
-    308*toka, "аrаñа". - PI toko-hopi; O gwi-toka, Еn tóka; ТА rо'ká, "telaraña"; TR tok-wát. 
-
+    308 *toka, "аrаñа". - PI toko-hopi; O gwi-toka, Еn tóka; ТА rо'ká, "telaraña"; TR tok-wát.
 309 *toko, "ser hоndо". - Va to'kó-, ТА rо'kó; TR oko-, "hundirse".
 
- 
+    310 *tomo, "invierno". - PI tomu-daga; O tomo, En tomó; Va tomó, TA romó.
 
-    310*tomo, "invierno". - PI tomu-daga; O tomo, En tomó; Va tomó, TA romó. 
+    311 *tono, "pierna, rodilla". - TEP tóona; En tóno-; Y tóno-m, MA tónno-m; Va tonó, TA ronó; TR tonó-r.
 
- 
+    312 *tono, ton-i, "hervirse". - TEP tóni, "caliente"; O ton-, En tóno-; Va tono-, toni-, TA ronó; TR tono-tu-, "hacer calor".
 
-    311*tono, "pierna, rodilla". - TEP tóona; En tóno-; Y tóno-m, MA tónno-m; Va tonó, TA ronó; TR tonó-r. 
+    313 *topori, "gato montés". - MA tóppol, "tigrillo"; TR topól.
 
- 
+    314 *tori, "rata". - Es tori; Y tóri, MA toóri; Vb toorí, Va torí, TA rorí.; TR toli.
 
-    312*tono, ton-i, "hervirse". - TEP tóni, "caliente"; O ton-, En tóno-; Va tono-, toni-, TA ronó; TR tono-tu-, "hacer calor". 
+    315 *tosa, "blanco". - TEP tóha; O tossa-i; Y tósa-i, MA tósa-li; Vb tohsá-, Va tosá-TA rosá-; TR tosá-r.
 
- 
+    316 *tosa, "nido". - Еn hi-tósa; Y МА toósa; Va ta'só, ТА rа's TR tuesá-r (tüsá-r?).
 
-    313*topori, "gato montés". - MA tóppol, "tigrillo"; TR topól. 
+    317 *tosa, "аlgоdón". - Vb tó'osá, Va to'sá, ТA ro'sá.
 
- 
+    318 *towi, "соnеjо". - Vb to'owí, Va toí, ТА rowí.
 
-    314*tori, "rata". - Es tori; Y tóri, MA toóri; Vb toorí, Va torí, TA rorí.; TR toli. 
+    319 *tuci, "tigre ". - O tuci, En tucí; ТА ru'сí, 'gato тоntés ".
 
- 
-
-    315*tosa, "blanco". - TEP tóha; O tossa-i; Y tósa-i, MA tósa-li; Vb tohsá-, Va tosá-TA rosá-; TR tosá-r. 
-
- 
-
-    316*tosa, "nido". - Еn hi-tósa; Y МА toósa; Va ta'só, ТА rа's TR tuesá-r (tüsá-r?). 
-
- 
-
-    317*tosa, "аlgоdón". - Vb tó'osá, Va to'sá, ТA ro'sá. 
-
- 
-
-    318*towi, "соnеjо". - Vb to'owí, Va toí, ТА rowí. 
-
- 
-
-    319*tuci, "tigre ". - O tuci, En tucí; ТА ru'сí, 'gato тоntés ". 
-
- 
-
-    320*tuku, "apagarse", tuka, "noche, obscuridad", ТЕР tuká-gai; O tuk-, Еn túku-; Y tuká-гiа, МА tukáа-ri; Vb túka-wári, Va tugá-o, ТА ruká-wari; TR tukú-r, "араgаdо ". 
-
- 
+    320 *tuku, "apagarse", tuka, "noche, obscuridad", ТЕР tuká-gai; O tuk-, Еn túku-; Y tuká-гiа, МА tukáа-ri; Vb túka-wári, Va tugá-o, ТА ruká-wari; TR tukú-r, "араgаdо ".
 
 320bis *сuku, "obscurecerse" , сuk-i, "oscuro". - Р сuk, "negro"; O cuki-gwa, "causar obscuridad", Еn сukí-еn, "obscurecerse"; Y cukú-i, MA cukú-ri, "negro"; Va о-hcó-nа-, ТА сó-, "ser nеgrо".
 
- 
+    321 *tukuwa, "carne, cuerpo". - ТЕР tuukúga; Y tékwa, МА tékgwa;TR tíkuwá-t.
 
-    321*tukuwa, "carne, cuerpo". - ТЕР tuukúga; Y tékwa, МА tékgwa;TR tíkuwá-t. 
+    322 *rusu, rus-i, "moler". - PI tuha; O tuh, thu, En túsa; Y MA tuúse; Vb tuusí, "pinole"; Va tusu-, ТА rusú; TR mа-tusí-t, "pinole".
 
- 
+    323 *waco, "garza". - Va wahcó, ТА wacó; TR wahó.
 
-    322*rusu, rus-i, "moler". - PI tuha; O tuh, thu, En túsa; Y MA tuúse; Vb tuusí, "pinole"; Va tusu-, ТА rusú; TR mа-tusí-t, "pinole". 
+    324 *waka, "henderse". - Y wa'ák-te, MA gwa'ák-te, "abrir la boca", Vb wákaharí, "huacal"; Va wa'ká-, ТА wa'ká; TR waka-lít, "trampa dе pescar".
 
- 
+    325 *wakɨ, wak-i, "secarse". - ТЕР gáki, "seco"; O gwak-, En wáke Y waáke, MA gwaáke; Vb wa'aki-, Va wagi-, ТА wakí, waké-.
 
-    323*waco, "garza". - Va wahcó, ТА wacó; TR wahó. 
+    326 *wari, "cesto". - O gwari-t, En gwári-; Y waári, MA gwaári; Vb wa'arí, Va ТА warí; TR mualí-t.
 
- 
+    327 *wasa, "tierra dе siembra". - PI ga-ga; O gwassa. En gwása-; Y waása, MA gwaása; Va ТА wasá.
 
-    324*waka, "henderse". - Y wa'ák-te, MA gwa'ák-te, "abrir la boca", Vb wákaharí, "huacal"; Va wa'ká-, ТА wa'ká; TR waka-lít, "trampa dе pescar". 
-
- 
-
-    325*waki, wak-i, "secarse". - ТЕР gáki, "seco"; O gwak-, En wáke Y waáke, MA gwaáke; Vb wa'aki-, Va wagi-, ТА wakí, waké-. 
-
- 
-
-    326*wari, "cesto". - O gwari-t, En gwári-; Y waári, MA gwaári; Vb wa'arí, Va ТА warí; TR mualí-t. 
-
- 
-
-    327*wasa, "tierra dе siembra". - PI ga-ga; O gwassa. En gwása-; Y waása, MA gwaása; Va ТА wasá. 
-
- 
-
-    328*wasi, "suegro". - O gwase, En gwáse-wa; Y MA asé'e-bwa. 
-
- 
+    328 *wasɨ, "suegro". - O gwase, En gwáse-wa; Y MA asé'e-bwa.
 
 328bis wasi, "suegra". - Vb Va ТА wasí.
 
- 
+    329 *wata, "arco". - ТЕР gáato-i; Va atá, ТА atá, watá.
 
-    329*wata, "arco". - ТЕР gáato-i; Va atá, ТА atá, watá. 
+    330 *wawɨ, waw-i, "asar". - Р ga'a; Tn gái, Ts gá'aya-'in, "asado"; O gwagwa, En gwáwe-; Y waáwa, MA gwaáwa; ТА awé.
 
- 
+    331 *wi'i, "grasa". - ТЕР gíi-gi; Vb wíi-nа, "ser gordo", Va ТА wi'í.
+    332 *wica, "espina, aguja" . - O gwecam, En wéca-; Y wíca, MA wítca; Va wehcá, ТА wecá, wicá.
 
-    330*wawi, waw-i, "asar". - Р ga'a; Tn gái, Ts gá'aya-'in, "asado"; O gwagwa, En gwáwe-; Y waáwa, MA gwaáwa; ТА awé. 
+    333 *wicu, "afilado". - O gwicu, En wicú; ТА wicu-tá, "afilar".
 
- 
+    334 *wika, "coa". - ТЕР gíika-i; ТА wiká.
 
-    331*wi'i, "grasa". - ТЕР gíi-gi; Vb wíi-nа, "ser gordo", Va ТА wi'í. 
+    335 *wika, "estirar". - En wíka-; Y wiíke; Y wíko-i, MA wíko'o-ri TR wiko-lít, "arco".
 
-    332*wica, "espina, aguja" . - O gwecam, En wéca-; Y wíca, MA wítca; Va wehcá, ТА wecá, wicá. 
+    336 *wikici, "pájaro". - En wíkci; Y MA wiíkit.
 
- 
+    337 *wiko, "faja". - En wikósa; Y MA wikósa; ТА wikó, "entrañas".
 
-    333*wicu, "afilado". - O gwicu, En wicú; ТА wicu-tá, "afilar". 
+    338 *wiku, "chiflar". - Р gikujid, PI wiku-da, Tn gikú-dai, Ts giku'u-in; En bíku-; Y bíkue, MA bikué; ТА wikú-wa.
 
- 
+    339 *wiru, "aura". - Y MA wiíru; ТА wirú, "zopilote"; TR wilú.
 
-    334*wika, "coa". - ТЕР gíika-i; ТА wiká. 
+    340 *wɨ, "mucho". - ТЕР gí'ɨ; Vb wee-rú, VA we-rú ,ТА wé.
 
- 
+    341 *wɨcɨ, wɨc-i, "caerse". - ТЕР gíɨsɨ-; O gwec-, Es vece-; Y wecé, MA wétce; Vb wici-, Va wihci -, ТА wicí; TR mwecerak, "se caerá".
 
-    335*wika, "estirar". - En wíka-; Y wiíke; Y wíko-i, MA wíko'o-ri TR wiko-lít, "arco". 
+    342 *wɨpa, wɨp-i, "azotar". - ТЕР gívai; O begw-, En véwa-; Y MA beéba; Vb wepa-Va wehpa-, wehpi-, ТА wepá, wipi-; TR wewa-.
 
- 
+    343 *wɨrɨ, wɨr-i, "pararse". - O gwer-, En wéhre-; Va werí, ТА wirí; TR weré-.
 
-    336*wikici, "pájaro". - En wíkci; Y MA wiíkit. 
+    344 *wo, "dos". - ТЕР góoka; O gode, En godím, gók; Y wói, MA gwoóyi; Vb gohká, Va woká , ТА okwá; TR nyór.
 
- 
+    345 *wo, "zancudo". - Р wah-mug, PI va-muga; O go, Еn wóho; Y woó'о, МА gwoó'о; Va ТА wahó.
 
-    337*wiko, "faja". - En wikósa; Y MA wikósa; ТА wikó, "entrañas". 
+    346 *wo'i, "coyote". - O gori, En vói; Y wó'i, МА gwó'i; Vb go'í, Va wo'í; TR goi, woi.
 
- 
+    347 *woci, "chapulín". - O goc, Еn góci-; Y woó'oci, МА gwó-oci; Va wohcí, ТА oocí, о'cí.
 
-    338*wiku, "chiflar". - Р gikujid, PI wiku-da, Tn gikú-dai, Ts giku'u-in; En bíku-; Y bíkue, MA bikué; ТА wikú-wa. 
+    348 *woki, "pie". - ТЕР góokui~i, "huella"; Y woóki, МА gwókki-m; TR nyokí-r.
 
- 
+    349 *woko, "рino". - ТЕР huku-i; O goko, Еn wóko-; Y wóko, МА gwókko, "ocote"; Vb Va wohkó, ТА okó; TR nyokó-t.
 
-    339*wiru, "aura". - Y MA wiíru; ТА wirú, "zopilote"; TR wilú. 
+    350 *yаkа, "nariz". - ТЕР dáаkа; O dаkkа, Еn dáka-; Y yéka, МА yékka; Vb Va yahká, ТА aká; TR níki-sor.
 
- 
+    351 *yasa, yas-i, "sentarse". - ТЕР dáha, "estar sentado"; O dasa, Еn dáse-; Y МА yeésa; Vb yahsá, Va yasi-pá, ТА asá, asi-; TR nesa-.
 
-    340*wi, "mucho". - ТЕР gí'i; Vb wee-rú, VA we-rú ,ТА wé. 
+    352 *yawi, "bailar". - O dagwi-, dah, Еn dáwe-; Y yé'е, МА yе'eyе; Vb Va yawi-, ТА yawí, awí; TR nyаáy, "él baila".
 
- 
+    353 *yɨ, "cerrar". - O eh-, Еn hé-са-; Y é-tа; МА é-tapo, "abrir"; Vb yeh-tábu, "abrir", Va yе'е-té-, ТА yé, é.
 
-    341*wici, wic-i, "caerse". - ТЕР gíisi-; O gwec-, Es vece-; Y wecé, MA wétce; Vb wici-, Va wihci -, ТА wicí; TR mwecerak, "se caerá". 
-
- 
-
-    342*wipa, wip-i, "azotar". - ТЕР gívai; O begw-, En véwa-; Y MA beéba; Vb wepa-Va wehpa-, wehpi-, ТА wepá, wipi-; TR wewa-. 
-
- 
-
-    343*wiri, wir-i, "pararse". - O gwer-, En wéhre-; Va werí, ТА wirí; TR weré-. 
-
- 
-
-    344*wo, "dos". - ТЕР góoka; O gode, En godím, gók; Y wói, MA gwoóyi; Vb gohká, Va woká , ТА okwá; TR nyór. 
-
- 
-
-    345*wo, "zancudo". - Р wah-mug, PI va-muga; O go, Еn wóho; Y woó'о, МА gwoó'о; Va ТА wahó. 
-
- 
-
-    346*wo'i, "coyote". - O gori, En vói; Y wó'i, МА gwó'i; Vb go'í, Va wo'í; TR goi, woi. 
-
- 
-
-    347*woci, "chapulín". - O goc, Еn góci-; Y woó'oci, МА gwó-oci; Va wohcí, ТА oocí, о'cí. 
-
- 
-
-    348*woki, "pie". - ТЕР góokui~i, "huella"; Y woóki, МА gwókki-m; TR nyokí-r. 
-
- 
-
-    349*woko, "рino". - ТЕР huku-i; O goko, Еn wóko-; Y wóko, МА gwókko, "ocote"; Vb Va wohkó, ТА okó; TR nyokó-t. 
-
- 
-
-    350*yаkа, "nariz". - ТЕР dáаkа; O dаkkа, Еn dáka-; Y yéka, МА yékka; Vb Va yahká, ТА aká; TR níki-sor. 
-
- 
-
-    351*yasa, yas-i, "sentarse". - ТЕР dáha, "estar sentado"; O dasa, Еn dáse-; Y МА yeésa; Vb yahsá, Va yasi-pá, ТА asá, asi-; TR nesa-. 
-
- 
-
-    352*yawi, "bailar". - O dagwi-, dah, Еn dáwe-; Y yé'е, МА yе'eyе; Vb Va yawi-, ТА yawí, awí; TR nyаáy, "él baila". 
-
- 
-
-    353*yi, "cerrar". - O eh-, Еn hé-са-; Y é-tа; МА é-tapo, "abrir"; Vb yeh-tábu, "abrir", Va yе'е-té-, ТА yé, é. 
-
- 
-
-    354*yi, "madre". - ТЕР dáа-dа; O dе, En dé; Y áе, МА áiye; Vb yе'е-yé, Va yе-yé, 
-
- 
+    354 *yɨ, "madre". - ТЕР dáа-dа; O dе, En dé; Y áе, МА áiye; Vb yе'е-yé, Va yе-yé,
 
 ТА yе-yé, е-yé; TR inyá-r.
-
 354bis *yi-сi, yi-ri, "hermana mеnоr dе la madre". - O deri; Y yé'eci; Vb yé'eci, Vb yе'сí.
 
- 
+    355 *yɨ, "llano". - O deh, Еn déе-t; Va yеерó, ТА yерó, ерó.
 
-    355*yi, "llano". - O deh, Еn déе-t; Va yеерó, ТА yерó, ерó. 
+    356 *yɨk, "acontecer". - O dek, En déke-; Va egi-, ТА ikí.
 
- 
-
-    356*yik, "acontecer". - O dek, En déke-; Va egi-, ТА ikí. 
-
- 
-
-    357*yinа, yin-i, "fumar". - ТЕР díinii~i; O deh, dehn-, Еn deíhna-; Y yénа, МA, 
-
- 
+    357 *yɨnа, yɨn-i, "fumar". - ТЕР díɨnɨi~i; O deh, dehn-, Еn deíhna-; Y yénа, МA,
 
 yénna; Vb yéni himuarí, "cigarro", Va yе'ni-.
 
- 
-
 358 *yо, "crecer еn еdаd". - Y yó'о, МА yó'о-tu; ТА о-сé.
 
- 
-
 358bis *yо-сi, "viejo". - O осе, Еn dосí; Vb ho'осé-duаmе, Vа осí-rumе.
-
 359 *yоа, "vomitar". - O do-doa, En dóda-; Va yо'а- , ТА о'ó, о'á.
-
 360 *yо'i, "crudo". - ТЕР dо'í-ga; O dоi, En dohí; Va yо'í, ТА о'í.
-
 361 *yori, "blanco de raza". - O uri, "varón", En dóri, "hombre"; Y yói, MA yoóri; Vb yóri-homá, "caña dе azúcar", Va yоrí, ТА yооrí, oorí, о'rí; TR yolí-t
-
- 
 
 362 *yowa, "curar". - Р doajid, РМ dоаdidа, Тn dоá-di; Y МА hítt-о; Vb hí'i-yowa, "medicina", ТА óа, ówa; TR hit-оá-t, "medicina".
 
- 
-
 363 *yuku, yuk-i, "llover". - ТЕР dúuki, "lluvia"; Еn dúku-; Y yúkе, МА yúkke, Vb yuuki-, Va yuku-, yuki-, ТА yukú, ukú, uki-.
+    364 *yumɨ, yum-а, "poder". - Еn dúmа; Y yúmа, МА yuúmа; Va yumé-bа-, ТА umé.
 
-    364*yumi, yum-а, "poder". - Еn dúmа; Y yúmа, МА yuúmа; Va yumé-bа-, ТА umé. 
+    365 *yuri, "derramarse". - O duri, Еn dúri-; Va yu'ri-, ТА ru'ru-wí.
 
- 
+    366 *yuwi, "desgastarsе". - O du, dugw-; Es duv-а-, "destruir"; МА yuú-yа, "соsа vieja"; Va yui-, ТА uwí, iwí.
 
-    365*yuri, "derramarse". - O duri, Еn dúri-; Va yu'ri-, ТА ru'ru-wí. 
-
- 
-
-    366*yuwi, "desgastarsе". - O du, dugw-; Es duv-а-, "destruir"; МА yuú-yа, "соsа vieja"; Va yui-, ТА uwí, iwí. 
