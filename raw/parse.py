@@ -53,7 +53,7 @@ def parse_languages(rowx):
             "MA",
             "Vb Va", "Va TA",
             "TA", "MA",
-            "V",
+            "V", "P PI",
             "VB", "YMA", 
             "Y.MA",
             "Y MA", "Y", "En"

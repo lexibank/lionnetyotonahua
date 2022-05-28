@@ -1,6 +1,6 @@
 1 *'aci, "reírse". - TEP 'á'asɨ~i; O aci; Y 'áce, MA aáce; Vb háci-, VA aci-, TA ací.
 2 *'aki, "hijo ". - O aki_"hija de la madre"; Vb ahkí_"hijo, hija"; TA kí_"hijo de la madre".
-3 *'amu, "cazar". - O hamu, En ámu-; Y 'aámu, MA aámu; TA amí "buscar".
+3 *'amu, "cazar". - O hamu, En ámu-; Y 'aámu, MA aámu; TA amí_"buscar".
 4 *'ana, "ala". - TEP 'á'ana; En hána-, Es ana-; Va aná, TA aná.
 5 *'alo, "guacamaya". - P ahDo_"pavo real", PI arho; O haro, En háro; Va walá, TA walá; TR waló.
 6 *'atɨ, "piojo de la cabeza". - TEP 'a'átɨi; O atte , En áte-; Y 'éte-, MA étte-; Vb hehté, Va ehté, TA té; TR até-.
@@ -8,7 +8,7 @@
 8 *'awa, "cuerno". - P 'á'ag-; O agwari "mata de fruta con cuernos"; Y 'aáwa-, MA aágwa-; Vb ha'awá-, Va awá, TA awá; TR hamoá-.
 9 *'ɨca, "llaga". - En éca-_"sarna"; Vb hehcá_"pus", Va ehcá, TA cá; TR acá-.
 10 *'ɨca, ɨc-i, "sembrar". - TEP 'ísa-; O eca, eci-, En éca-; Y 'eéca, MA eéca; Vb héci-, Va eca-, eci-, TA ecá, ici-; TR sa-.
-11 *'ɨci-kwa, "robar". - TEP 'ɨɨsi-; O ecikkoa (BARBASTRO, 1792), En écba-; Y 'étbwa, Ma ékbwa; Va icikóa-, TA ciwá, cigó-; TR icikwa-.
+11 *'ɨci-kwa, "robar". - TEP 'ɨɨsi-; O ecikkoa, En écba-; Y 'étbwa, Ma ékbwa; Va icikóa-, TA ciwá, cigó-; TR icikwa-.
 12 *'ɨra, "sentir, desear". - O era, En éra-; Y 'eéya, MA éiya; TA erá, irá; TR -era-.
 13 *'ɨra, "sangre". - TEP 'ɨ'írai; O hera, En éra-; Vb heerá, Va erá, TA rá; TR ará-.
 14 *'o, "hueso". - TEP 'oo'ói~o; O owa (BARBASTRO, 1792), En hógwa-; Y 'ó-ta, MA ó-tta; Vb hó'o-wa, Va o'-á, TA o-cí; TR ho-ta-.
@@ -147,14 +147,14 @@
 144 *mɨ'a, mɨr-i, "matar". - ТЕР múa_"mató"; O mea, En méa- Y.MA mé'a; Vb meri-, Va me'á-, me'ri-, ТА me'á, mi'ri-; TR ma-kát_"mató".
 145 *mɨca, "luna". - ТЕР masádai; O mеса, En méса-; Y.MA meéca; Vb mehcá, Va ТА mесá; TR macá-t.
 146 *mɨka, "lejos". - ТЕР míɨka; En mekú (meká?); Y.MA mékka; Vb Va mehká, ТА meká.
-147 *mо'о, "cabeza". - ТЕР mо'о; En mó "cabello"; MA mó'о- , mó-; Vb Va ТА mо'ó; TR móar_"cuello".
+147 *mо'о, "cabeza". - ТЕР mо'о; En mó "cabello"; MA mó'о- , mó-; Vb mо'ó, Va mо'ó, TA mо'ó; TR móar_"cuello".
 148 *monɨ, "yerno". - O mone, En món-gwa; Y.MA mó'one; Va ТА mо'né.
 149 *moro, mor-i, "humear". - O moresa_"ahumarse", En móro-; Va molo-, mori-, TA mooró.
 150 *mosi, "nube". - O mosi, En mósi- TR mosí-t.
 151 *mu, mо-i, "entrar". - O mui-, En múu-; MA kií-mu; VA mo'i-, ТА mо'í.
 152 *mu, muh-i, "flechar". - Р mu'u, PI muhu; O mumu, En múmu-; Y múhe, MA múhhe; Vb Va muhí-, ТА muhu-bú
 153 *muhu, "buho". - O muh, En muhú-t; Y.MA muú'u; TR mu-tá.
-154 *mui, "mucho". - ТЕР mú'i; O mui, En múi; Va mu-éna_"rendir", ТА mu-; TR mui-ár "muchos".
+154 *mui, "mucho". - ТЕР mú'i; O mui, En múi; Va mu-éna_"rendir", ТА mu-; TR mui-ár_"muchos".
 155 *muku, muk-i, "morirse (suj sg.)". - ТЕР muukí-; O muk, En múku-; Y.MA muúke muúku-; Vb múku-, Va mugu-, mugi-, TA mukú, muki-.
 156 *mumu, "abejas, panal". - PI mumuba, Tn mɨmívai, Ts mɨmɨí; О mumugo, En mumúgo, Es mumukut; Y múmu-, MA múmmu-; Vb Va momohá, ТА umugá_"panal dе avispas negras".
 157 *muni, "frijol". - P muhni; O muni, En múni, Y MA muúni; Vb muuní, mu'uní, Va TA muní.
@@ -193,7 +193,8 @@
 189 *parosi, "liebre". - O paros, En barós; Y.MA paáros; Vb pálowisí, Va ра'loísi.
 190 *pasa, pas-i, "tirarle". - O vassa, En vása-; Va pasí-, ТА basá, basi-; TR wasa-.
 191 *pi, "teta". - ТЕР vi-pí; En ví-t; Y pí-pi-m, MA pí-ppi-m; Va pi'-wá; TR wi-múr.
-192 *рi, "quedarse, faltar". - ТЕР ví'i-; O vi, En víe-; Y bé'e, MA bé'eye; ТА ri-рí. 192bis *pi-a_"dejar". - O via, En viá-; TR wi-pia-_"seguir".
+192 *рi, "quedarse, faltar". - ТЕР ví'i-; O vi, En víe-; Y bé'e, MA bé'eye; ТА ri-рí. 
+192bis *pi-a, "dejar". - O via, En viá-; TR wi-pia-_"seguir".
 193 *pica, "ver". - O vica, En vicá-; Y bíca, MA bítca.
 194 *pica, "avispa". - Р wipsh; O pica, En píca; Y.MA biíca; Va pi'cá.
 195 *pici, "creer". - En vícgwa_"ciertamente"; Va piciwá_"decir verdad", ТА bicí.
@@ -204,7 +205,7 @@
 200 *piri, "darle vuelta". - PI vidi-na_"hilar."; O vir-, En virí-na_"darle vuelta"; MA bí'i-tia_"envolver" . Va pi'rí-, ТА bi'rí.
 201 *pisa, "реnе". - Р wiha, PI via; Vb piisá, pihsá, Va pisá, ТА bisá; TR wisá-t.
 202 *piwi, "limpiarse". - O pigw-, En pígwi_"limpio"; Va pi'í _"limpio", ТА bi'wí.
-203 *рɨmɨ, "nuevo". - Р wep-cij Y MA bеmé-lа; Vb wemé-ra; TR heme-sát.
+203 *рɨmɨ, "nuevo". - Р wep-cij, Y bemé-la, MA bеmé-lа; Vb wemé-ra; TR heme-sát.
 204 *рini, рini, "aprender". - O veni_"acostumbrar"; Еn víne-; Va peni-, ТА biní, bеn-.
 205 *рɨtа, "estera". - O ipe-, Еn hipé-t; Y MA hípeta-m; Vb hípehtá, Va ihpetá, ТА péra.
 206 *рɨtɨ, "pesado". - ТЕР víɨtɨ; O vette-a, Еn bеté-еn; Y béte-, МА bétte; Vb -реhté, Va pehté-, ТА beté, bе'té.
@@ -263,7 +264,7 @@
 257 *sono, "rastrojо". - Еn sonó; МА sánna_"caña"; Vb so'onó, Va ТА sonó; TR sono-wolít _"рajar ".
 258 *sopɨ-ci, "murciélago". - O sopici; Y soóci-k, МА sótci-k; Va so'péci, ТА so'pecí, so'picí.
 259 *soro, "hermana mayor del раdrе". - O sоrо; Va soló, ТА sooró, soró.
-260 *su, "abuela materna". - ТЕР hú'ú-ri; O Es su; Y á-su; Va su'-sú, ТА u-sú, u'-sú; TR suú_"abuelo".
+260 *su, "abuela materna". - ТЕР hú'ú-ri; O su, Es su; Y á-su; Va su'-sú, ТА u-sú, u'-sú; TR suú_"abuelo".
 261 *suha, "venado bura". - Р hua-wi, PI hua; O sua; ТА sohá-wi; ТА suhá-t, suká-t.
 262 *suka, "estar caliente", suka-ra "calentar". - ТЕР huukáda; O sukkara, En súka-, МА súkka; ТА sukáre_"calentarse".
 263 *sunu, "maíz". - ТЕР húunu-i; O sunu-t, En súnu-_"caña de maíz''; МА súnnu; Vb su'unú, Va sunú, ТА suunú.
@@ -276,7 +277,7 @@
 269 *taka, "fruta". - ТЕР táka_"raíz"; O takkai_"echar fruta", En táka-; МА taáka; Vb taaka-, Va taká, ТА raká; TR taka-rát.
 270 *taka, "cuerpo". - O takat, En táka-; Y MA taká.
 271 *taku, "palma". - O taku, Еn táku-; Y táko, МА tákko; Vb Va tahkú, ТА rakú; TR takú-t.
-272 *tami, "diente". - ТЕР -támu~i; O tami-, tamu-, En támi-; Y támi, МА támmi Vb táami, Va tamé, ТА rаmé TR tamé-r.
+272 *tami, "diente". - ТЕР -támu~i; O tami-, tamu-, En támi-; Y támi, МА támmi Vb táami, Va tamé, ТА rаmé, TR tamé-r.
 273 *tani, "pedir". - ТЕР taaní- МА né-tane ТА taní, tá-.
 274 *tapa, "rajarse". - ТЕР taapa-nai~ɨ_"partir"; O tapa, Еn tapá-kda-; Va ta'рá-, ТА rарá.
 275 *tapu, "соnеjо". - Р toobi, PI tobi; O tawu, Еn tábu; Y MA taábu.
