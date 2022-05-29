@@ -1,21 +1,16 @@
 ID	Abbreviation	Name	Glottocode
-On	On	On	
-T	T	T	
-PM	PM	PM	
-E	E	Eudeve	eude1234
-En	En	North Eudeve	eude1234
-Es	Es	South Eudeve	eude1234
-MA	MA	Mayo	mayo1264
-O	O	Opata	opat1246
-P	P	Tohono O'odam	toho1246
-PI	PI	Sonora Pima Bajo (Nevome)	sono1245
-Proto	Proto	Proto	
-TA	TA	Central Tarahumara	cent2131
-TEP	TEP	Proto-Tepiman	tepi1240
-Tn	Tn	Tn	
-TR	TR	Tubar	tuba1279
-Ts	Ts	Ts	
-V	V	V	
-Va	Va	Highland Warihío	high1277
-Vb	Vb	Lowland Warihío	lowl1264
-Y	Y	Yaqui	yaqu1251
+EudeveNorth	En	North Eudeve	eude1234
+EudeveSouth	Es	South Eudeve	eude1234
+Mayo	MA	Mayo	mayo1264
+Opata	O	Opata	opat1246
+TohonoOdam	P	Tohono O'odam	toho1246
+SonoraPimaBajo	PI	Sonora Pima Bajo (Nevome)	sono1245
+ProtoSonoran	Proto	Proto-Sonoran	sout3136
+TarahumaraCentral	TA	Central Tarahumara	cent2131
+ProtoTepiman	TEP	Proto-Tepiman	tepi1240
+TepehuanNorth	Tn	Tepehuán del Norte	nort2959
+Tubar	TR	Tubar	tuba1279
+TepehuanSouth	Ts	Tepehuán del Sur	sout2976
+WarihioHighland	Va	Highland Warihío	high1277
+WarihioLowland	Vb	Lowland Warihío	lowl1264
+Yaqui	Y	Yaqui	yaqu1251

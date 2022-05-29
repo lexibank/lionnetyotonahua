@@ -68,19 +68,20 @@ class Dataset(BaseDataset):
         
         wl = lingpy.Wordlist(str(self.raw_dir.joinpath("yotonahua.tsv")))
         for idx in progressbar(wl, desc="forms to cldf"):
-            lex = args.writer.add_form(
-                    Language_ID=REMAP.get(wl[idx, "doculect"], wl[idx, "doculect"]),
-                    Parameter_ID=concepts[wl[idx, "concept"]],
-                    Value=wl[idx, "value"],
-                    Form=wl[idx, "form"].replace(" ", "_"),
-                    Entry=wl[idx, "entry"],
-                    Source="Lionnet1985",
-                    Cognacy=wl[idx, "cog"],
-                    ConceptInSource=wl[idx, "concept_in_source"]
-                    )
-            args.writer.add_cognate(
-                    lex,
-                    Cognateset_ID=wl[idx, "cog"]
-                    )
+            if wl[idx, "doculect"] not in ["On", "PM", "T", "V", "E"]:
+                lex = args.writer.add_form(
+                        Language_ID=languages[REMAP.get(wl[idx, "doculect"], wl[idx, "doculect"])],
+                        Parameter_ID=concepts[wl[idx, "concept"]],
+                        Value=wl[idx, "value"],
+                        Form=wl[idx, "form"].replace(" ", "_").strip("."),
+                        Entry=wl[idx, "entry"],
+                        Source="Lionnet1985",
+                        Cognacy=wl[idx, "cog"],
+                        ConceptInSource=wl[idx, "concept_in_source"]
+                        )
+                args.writer.add_cognate(
+                        lex,
+                        Cognateset_ID=wl[idx, "cog"]
+                        )
 
 

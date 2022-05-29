@@ -20,7 +20,7 @@ r	r	karí, yóri-homá	Proto, TA, Vb, MA, En, Va, O, TR, Y, TEP, Es	100	U+0072
 ^s	s	seká, saámi	TA, Va, MA, En, Y, TR, Vb, O, Proto, PI, Es, TEP, Tn, T, P	100	U+005e U+0073
 n	n	maní., caní	Proto, En, Vb, Y, Va, O, TA, MA, TEP, TR, PI, P, Tn, T, Es	100	U+006e
 h	h	yóri-homá, tohá	Va, Vb, P, Proto, TR, PI, TA, Y, En, TEP, O, VA, MA	100	U+0068
-c	c	kará-ci, biíca	Proto, TA, Va, O, En, Y, MA, Vb, TR, Es	100	U+0063
+c	ts	kará-ci, biíca	Proto, TA, Va, O, En, Y, MA, Vb, TR, Es	100	U+0063
 s	s	kusá, posa-	Proto, TA, TR, Va, Vb, En, Y, O, TEP, MA, V, Tn, On, PI	100	U+0073
 e	e	seká, wepa-Va_wehpa-	Va, O, TA, MA, TR, Y, Vb, En, Es, T	100	U+0065
 á	á/a	kará-ci, bwásia	En, TR, Y, MA, Vb, TA, TEP, Va, Ts	100	U+00e1
@@ -125,7 +125,7 @@ oo	oː	sooró, toobi	Vb, TA, TEP, P	8	U+006f U+006f
 ^'á	ʔ á/a	'áce, 'á'ana	TEP, Y, P	7	U+005e U+0027 U+00e1
 yo	y/j o	*yori, hí'i-yowa	Proto, TR, Vb	7	U+0079 U+006f
 íɨ	íɨ/iɨ	níɨni, kíɨga	TEP	7	U+00ed U+0268
-c$	c	goc, gwec-	Proto, En, O, P	7	U+0063 U+0024
+c$	ts	goc, gwec-	Proto, En, O, P	7	U+0063 U+0024
 p$	p	*cop, sep-	O, Proto	7	U+0070 U+0024
 ^yu	y/j u	yuki-, yumé-ba-	Va, Proto, TA	7	U+005e U+0079 U+0075
 y	y/j	ye-yé, ye'e-yé	TA, TR, Vb, Va	7	U+0079
@@ -273,7 +273,7 @@ D$	D/ð	kohkoD	P	1	U+0044 U+0024
 rh$	r h	kokorh	PI	1	U+0072 U+0068 U+0024
 ou$	ou	koórou	MA	1	U+006f U+0075 U+0024
 D	D/ð	ahDo	P	1	U+0044
-^híci-ra_(bíci-ra?)	h í/i c i + r a	híci-ra_(bíci-ra?)	En	1	U+0068 U+00ed U+0063 U+0069 U+002d U+0072 U+0061 U+005f U+0028 U+0062 U+00ed U+0063 U+0069 U+002d U+0072 U+0061 U+003f U+0029
+^híci-ra_(bíci-ra?)	h í/i ts i + r a	híci-ra_(bíci-ra?)	En	1	U+0068 U+00ed U+0063 U+0069 U+002d U+0072 U+0061 U+005f U+0028 U+0062 U+00ed U+0063 U+0069 U+002d U+0072 U+0061 U+003f U+0029
 io$	i/j o	*nio	Proto	1	U+0069 U+006f U+0024
 ^uu	u u	uurí	TA	1	U+005e U+0075 U+0075
 yi	y/j i	*yi-ci	Proto	1	U+0079 U+0069
@@ -302,7 +302,7 @@ sh	sh/ʃ	shosha	P	1	U+0073 U+0068
 úi$	ú/u i	múi	En	1	U+00fa U+0069 U+0024
 'ɨ$	ʔ ɨ	gí'ɨ	TEP	1	U+0027 U+0268 U+0024
 's$	ʔ s	ra's	TA	1	U+0027 U+0073 U+0024
-^tuesá-r_(tüsá-r?).	t u/w e s á/a + r	tuesá-r_(tüsá-r?).	TR	1	U+0074 U+0075 U+0065 U+0073 U+00e1 U+002d U+0072 U+005f U+0028 U+0074 U+00fc U+0073 U+00e1 U+002d U+0072 U+003f U+0029 U+002e
+^tuesá-r_(tüsá-r?)	t u/w e s á/a + r	tuesá-r_(tüsá-r?).	TR	1	U+0074 U+0075 U+0065 U+0073 U+00e1 U+002d U+0072 U+005f U+0028 U+0074 U+00fc U+0073 U+00e1 U+002d U+0072 U+003f U+0029 U+002e
 j$	j/dʒ	wep-cij	P	1	U+006a U+0024
 áo$	á/a o	náo	Y	1	U+00e1 U+006f U+0024
 úa	ú/u a	kúa'agɨ	TEP	1	U+00fa U+0061
@@ -321,7 +321,7 @@ uyi$	u y/j i	*puyi	Proto	1	U+0075 U+0079 U+0069 U+0024
 uúe$	uú/uː e	buúe	Y	1	U+0075 U+00fa U+0065 U+0024
 uúye$	uú/uː y/j e	buúye.	MA	1	U+0075 U+00fa U+0079 U+0065 U+0024
 ^síbo'oli-m_(p1)	s í/i b o ʔ o l i + m	síbo'oli-m_(p1)	Y	1	U+0073 U+00ed U+0062 U+006f U+0027 U+006f U+006c U+0069 U+002d U+006d U+005f U+0028 U+0070 U+0031 U+0029
-^copokori_(cokopori?)	c o p o k o r i	copokori_(cokopori?)	Vb	1	U+0063 U+006f U+0070 U+006f U+006b U+006f U+0072 U+0069 U+005f U+0028 U+0063 U+006f U+006b U+006f U+0070 U+006f U+0072 U+0069 U+003f U+0029
+^copokori_(cokopori?)	ts o p o k o r i	copokori_(cokopori?)	Vb	1	U+0063 U+006f U+0070 U+006f U+006b U+006f U+0072 U+0069 U+005f U+0028 U+0063 U+006f U+006b U+006f U+0070 U+006f U+0072 U+0069 U+003f U+0029
 ^'ɨ	ʔ ɨ	'ɨ'írai	TEP	1	U+005e U+0027 U+0268
 ^ɨ	ɨ	ɨc-i	Proto	1	U+005e U+0268
 b$	b	ób-	En	1	U+0062 U+0024
