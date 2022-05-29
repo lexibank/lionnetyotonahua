@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/lexibank/lionnetyotonahua",
             "rdf:type": "prov:Entity",
-            "dc:created": "39b829e",
+            "dc:created": "b55ea5c",
             "dc:title": "Repository"
         },
         {
@@ -57,7 +57,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 2870,
+            "dc:extent": 2728,
             "tableSchema": {
                 "columns": [
                     {
@@ -168,7 +168,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 15,
+            "dc:extent": 10,
             "tableSchema": {
                 "columns": [
                     {
@@ -278,7 +278,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 2870,
+            "dc:extent": 2728,
             "tableSchema": {
                 "columns": [
                     {

@@ -68,7 +68,10 @@ class Dataset(BaseDataset):
         
         wl = lingpy.Wordlist(str(self.raw_dir.joinpath("yotonahua.tsv")))
         for idx in progressbar(wl, desc="forms to cldf"):
-            if wl[idx, "doculect"] not in ["On", "PM", "T", "V", "E"]:
+            if wl[idx, "doculect"] not in [
+                    "On", "PM", "T", "V", "E", "Es", 
+                    "PI", "Tn", "Ts", "P"
+                    ]:
                 lex = args.writer.add_form(
                         Language_ID=languages[REMAP.get(wl[idx, "doculect"], wl[idx, "doculect"])],
                         Parameter_ID=concepts[wl[idx, "concept"]],

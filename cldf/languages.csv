@@ -1,16 +1,11 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Abbreviation
 EudeveNorth,North Eudeve,eude1234,,,,,,,En
-EudeveSouth,South Eudeve,eude1234,,,,,,,Es
 Mayo,Mayo,mayo1264,,,,,,,MA
 Opata,Opata,opat1246,,,,,,,O
-TohonoOdam,Tohono O'odam,toho1246,,,,,,,P
-SonoraPimaBajo,Sonora Pima Bajo (Nevome),sono1245,,,,,,,PI
 ProtoSonoran,Proto-Sonoran,sout3136,,,,,,,Proto
 TarahumaraCentral,Central Tarahumara,cent2131,,,,,,,TA
 ProtoTepiman,Proto-Tepiman,tepi1240,,,,,,,TEP
-TepehuanNorth,Tepehuán del Norte,nort2959,,,,,,,Tn
 Tubar,Tubar,tuba1279,,,,,,,TR
-TepehuanSouth,Tepehuán del Sur,sout2976,,,,,,,Ts
 WarihioHighland,Highland Warihío,high1277,,,,,,,Va
 WarihioLowland,Lowland Warihío,lowl1264,,,,,,,Vb
 Yaqui,Yaqui,yaqu1251,,,,,,,Y
