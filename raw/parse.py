@@ -6,8 +6,9 @@ languages = sorted(set([
             "Yb", "Va", "TA", "TR", "Y MA", "Y MA",
             "Vb Va TA", "Va TA", "Y MA", "Va T",
             "O", "Es", "MA", "Vb", "TR", "TA", "VA",
-            "TEP", "P", "PI", "P.PI",
-            "Ma", "E", "Vb Va", "Va Vb",
+            "TEP", "P", "PI", "P.PI", "PM", "Va.TA", "Va.T",
+            "Ma", "E", "Vb Va", "Va Vb", "Vb.Va", "Y.MA",
+            "On",
             "Va", "Vb", "TA", "Va TA",
             "MA",
             "Vb Va", "Va TA",
@@ -44,19 +45,20 @@ def parse_languages(rowx):
     row = rowx.replace(', "', ' "')
     languages = sorted(set([
             "P", "PI", "Tn", "Ts", "OE", "O", "En",
-            "Yb", "Va", "TA", "TR", "Y MA", "Y MA",
-            "Vb Va TA", "Va TA", "Y MA", "Va T",
+            "Yb", "Va", "TA", "TR", "Y.MA", "Y.MA",
+            "Vb.Va.TA", "Va.TA", "Y.MA", "Va.T",
             "O", "Es", "MA", "Vb", "TR", "TA", "VA",
-            "TEP", "P", "PI", "P.PI",
-            "Ma", "E", "Vb Va", "Va Vb",
-            "Va", "Vb", "TA", "Va TA",
+            "TEP", "P", "PI", "P.PI", "PM", "Va.TA", "Va.T",
+            "Ma", "E", "Vb.Va", "Va.Vb", "Vb.Va", "Y.MA",
+            "On", "T",
+            "Va", "Vb", "TA", "Va.TA",
             "MA",
-            "Vb Va", "Va TA",
+            "Vb.Va", "Va.TA",
             "TA", "MA",
-            "V", "P PI",
-            "VB", "YMA", 
+            "V",
+            "VB", "YMA", "TEP.En",
             "Y.MA",
-            "Y MA", "Y", "En"
+            "Y.MA", "Y", "En"
             ]))
     for lng in languages:
         row = row.replace(", "+lng+" ", "; "+lng+" ")
@@ -118,6 +120,8 @@ def clean(text):
         "ɨ": "ɨ",
         "с": "c",
         "Е": "E",
+        "O": "O",
+        "n": "n",
         ")": ")",
         "(": "(",
         "?": "?",
