@@ -1,0 +1,174 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.0,
+          28.5
+        ]
+      },
+      "properties": {
+        "Name": "North Eudeve",
+        "Glottocode": "eude1234",
+        "Glottolog_Name": "Eudeve",
+        "Macroarea": "North America",
+        "Family": "Uto-Aztecan",
+        "Abbreviation": "En"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.0,
+          28.5
+        ]
+      },
+      "properties": {
+        "Name": "South Eudeve",
+        "Glottocode": "eude1234",
+        "Glottolog_Name": "Eudeve",
+        "Macroarea": "North America",
+        "Family": "Uto-Aztecan",
+        "Abbreviation": "Es"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.981,
+          26.4522
+        ]
+      },
+      "properties": {
+        "Name": "Mayo",
+        "Glottocode": "mayo1264",
+        "Glottolog_Name": "Mayo",
+        "ISO639P3code": "mfy",
+        "Macroarea": "North America",
+        "Family": "Uto-Aztecan",
+        "Abbreviation": "MA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.06212,
+          31.15211
+        ]
+      },
+      "properties": {
+        "Name": "Opata",
+        "Glottocode": "opat1246",
+        "Glottolog_Name": "Teguima",
+        "ISO639P3code": "opt",
+        "Macroarea": "North America",
+        "Family": "Uto-Aztecan",
+        "Abbreviation": "O"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.154,
+          27.5648
+        ]
+      },
+      "properties": {
+        "Name": "Central Tarahumara",
+        "Glottocode": "cent2131",
+        "Glottolog_Name": "Central Tarahumara",
+        "ISO639P3code": "tar",
+        "Macroarea": "North America",
+        "Family": "Uto-Aztecan",
+        "Abbreviation": "TA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.379,
+          26.4348
+        ]
+      },
+      "properties": {
+        "Name": "Tepehu\u00e1n del Norte",
+        "Glottocode": "nort2959",
+        "Glottolog_Name": "Northern Tepehuan",
+        "ISO639P3code": "ntp",
+        "Macroarea": "North America",
+        "Family": "Uto-Aztecan",
+        "Abbreviation": "Tn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0,
+          30.0
+        ]
+      },
+      "properties": {
+        "Name": "Tubar",
+        "Glottocode": "tuba1279",
+        "Glottolog_Name": "Tubar",
+        "ISO639P3code": "tbu",
+        "Macroarea": "North America",
+        "Family": "Uto-Aztecan",
+        "Abbreviation": "TR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.983,
+          23.1584
+        ]
+      },
+      "properties": {
+        "Name": "Tepehu\u00e1n del Sur",
+        "Glottocode": "sout2976",
+        "Glottolog_Name": "Southeastern Tepehuan",
+        "ISO639P3code": "stp",
+        "Macroarea": "North America",
+        "Family": "Uto-Aztecan",
+        "Abbreviation": "Ts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.681,
+          29.9446
+        ]
+      },
+      "properties": {
+        "Name": "Yaqui",
+        "Glottocode": "yaqu1251",
+        "Glottolog_Name": "Yaqui",
+        "ISO639P3code": "yaq",
+        "Macroarea": "North America",
+        "Family": "Uto-Aztecan",
+        "Abbreviation": "Y"
+      }
+    }
+  ]
+}
