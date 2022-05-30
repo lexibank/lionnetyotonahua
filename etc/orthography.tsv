@@ -1,6 +1,9 @@
 Grapheme	IPA	Examples	Languages	Frequence	Codepoints
 ^	NULL				
 $	NULL				
+_-	+
+_-$	NULL
+-_	+
 -	+	bó'a-ria-, puri-	En, Va, Y, TA, MA, TR, Proto, O, TEP, Vb, Es, PI, P, V	100	U+002d
 -$	NULL	bó'a-ria-, puri-	En, Va, Y, TA, MA, TR, Proto, O, TEP, Vb, Es, PI, P, V	100	U+002d
 ^-	NULL	bó'a-ria-, puri-	En, Va, Y, TA, MA, TR, Proto, O, TEP, Vb, Es, PI, P, V	100	U+002d

@@ -11,28 +11,28 @@
     "dcat:accessURL": "https://github.com/lexibank/lionnetyotonahua",
     "prov:wasDerivedFrom": [
         {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/lionnetyotonahua",
-            "rdf:type": "prov:Entity",
-            "dc:created": "b55ea5c",
-            "dc:title": "Repository"
+            "dc:created": "43d4884"
         },
         {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "rdf:type": "prov:Entity",
-            "dc:created": "v4.5",
-            "dc:title": "Glottolog"
+            "dc:created": "v4.5"
         },
         {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "rdf:type": "prov:Entity",
-            "dc:created": "v2.6.0",
-            "dc:title": "Concepticon"
+            "dc:created": "v2.6.0"
         },
         {
-            "rdf:about": "https://github.com/cldf-clts/clts/",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.1.0-26-gb12a7df",
-            "dc:title": "CLTS"
+            "dc:title": "CLTS",
+            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "dc:created": "v2.1.0-26-gb12a7df"
         }
     ],
     "prov:wasGeneratedBy": [
@@ -57,7 +57,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 2728,
+            "dc:extent": 2870,
             "tableSchema": {
                 "columns": [
                     {
@@ -168,7 +168,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 10,
+            "dc:extent": 15,
             "tableSchema": {
                 "columns": [
                     {
@@ -278,7 +278,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 2728,
+            "dc:extent": 2870,
             "tableSchema": {
                 "columns": [
                     {

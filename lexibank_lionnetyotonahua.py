@@ -69,8 +69,8 @@ class Dataset(BaseDataset):
         wl = lingpy.Wordlist(str(self.raw_dir.joinpath("yotonahua.tsv")))
         for idx in progressbar(wl, desc="forms to cldf"):
             if wl[idx, "doculect"] not in [
-                    "On", "PM", "T", "V", "E", "Es", 
-                    "PI", "Tn", "Ts", "P"
+                    "On", "PM", "T", "V", "E", 
+                    #"Es", "PI", "Tn", "Ts", "P"
                     ]:
                 lex = args.writer.add_form(
                         Language_ID=languages[REMAP.get(wl[idx, "doculect"], wl[idx, "doculect"])],
@@ -84,7 +84,8 @@ class Dataset(BaseDataset):
                         )
                 args.writer.add_cognate(
                         lex,
-                        Cognateset_ID=wl[idx, "cog"]
+                        Cognateset_ID=wl[idx, "cog"],
+                        Source="Lionnet1985"
                         )
 
 
