@@ -52,10 +52,11 @@ class Dataset(BaseDataset):
         """
         concepts = {}
         for concept in self.concepts:
-            cid = '{0}_{1}'.format(concept["NUMBER"], slug(concept["SPANISH"]))
+            cid = '{0}_{1}'.format(concept["NUMBER"], slug(concept["ENGLISH"]))
             args.writer.add_concept(
                 ID=cid,
-                Name=concept["SPANISH"],
+                Name=concept["ENGLISH"],
+                Spanish_Gloss=concept["SPANISH"],
                 Concepticon_ID=concept["CONCEPTICON_ID"],
                 Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
                 Number=concept["NUMBER"]

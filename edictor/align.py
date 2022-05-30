@@ -11,5 +11,5 @@ def run(wordlist):
     alms = Alignments(part, ref="cogids", transcription="form")
     alms.align()
     for idx in alms:
-        D[idx] = [alms[idx, c] for c in D[0]]
+        D[idx] = [alms[idx, c] or "" for c in D[0]]
     return Wordlist(D)
