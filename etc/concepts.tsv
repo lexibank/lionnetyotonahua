@@ -8,7 +8,7 @@ NUMBER	SPANISH	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 7	acostarse	lie down	215	LIE DOWN
 8	adobe	adobe	901	ADOBE
 9	afilado	sharp	1396	SHARP
-10	aflojarse	become slack	1933	LOOSEN
+10	aflojarse	loosen	1933	LOOSEN
 11	agacharse	crouch	296	CROUCH
 12	agotar	become used up, spent		
 13	agotarse	become used up, spent		
@@ -34,7 +34,7 @@ NUMBER	SPANISH	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 33	arroyo	small river, stream	3311	FLOWING BODY OF WATER
 34	arrugarse	wrinkle		
 35	asar	roast	1962	ROAST (SOMETHING)
-36	atascarse	become filled up		
+36	atascarse	get stucked		
 37	aura	buzzard, turkey vulture		
 38	avispa	wasp	1517	WASP
 39	ayudar	help	1897	HELP
@@ -58,7 +58,7 @@ NUMBER	SPANISH	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 57	caerse el cabello	lose hair		
 58	camarón	shrimp	2349	SHRIMP
 59	camino	path, road	2457	PATH OR ROAD
-60	caña	cane	146	SUGAR CANE
+60	caña	cane		
 61	cansarse	become tired	1996	GET TIRED
 62	cantar	sing	1261	SING
 63	carne	meat	634	MEAT
@@ -93,7 +93,7 @@ NUMBER	SPANISH	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 92	copete	tuft		
 93	corazón	heart	1223	HEART
 94	cortar	cut	1432	CUT
-95	cortarse	be cut		
+95	cortarse	cut (oneself/itself)		
 96	coyote	coyote	912	COYOTE
 97	crecer en edad	become older		
 98	creer	believe	1890	BELIEVE
@@ -125,8 +125,8 @@ NUMBER	SPANISH	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 124	elote	fresh corncob		
 125	emborracharse	become drunk		
 126	encino	oak	644	OAK
-127	enemigo, bravo	enemy, warrior	1358	ENEMY
-128	enemigo, enfrentarse	enemy, confront	1358	ENEMY
+127	enemigo, bravo	enemy, brave	1358	ENEMY
+128	enemigo, enfrentarse	enemy, confront		
 129	enfriarse	cool down	3068	COOL DOWN
 130	entrar	enter	749	ENTER
 131	entumecerse	become numb	2216	BECOME NUMB
@@ -134,7 +134,7 @@ NUMBER	SPANISH	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 133	escorpión	scorpion	1538	SCORPION
 134	escribir	write	1672	WRITE
 135	espalda	back	1291	BACK
-136	espiga	corn tassel	1249	SPIKE
+136	espiga	spike	1249	SPIKE
 137	espina, aguja	thorn, needle	124	THORN
 138	espinarse	be stung		
 139	esposa	wife	1199	WIFE
@@ -199,7 +199,7 @@ NUMBER	SPANISH	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 198	invierno	winter	1471	WINTER
 199	ir	go	695	GO
 200	jilotear	for an ear of corn to form		
-201	larpo	long		
+201	largo	long	1023	LONG
 202	lavar	wash	1453	WASH
 203	lejos	far	1406	FAR
 204	lengua	tongue	1205	TONGUE
@@ -208,33 +208,33 @@ NUMBER	SPANISH	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 207	limpiarse	clean up		
 208	llaga	wound	1109	WOUND
 209	llano	plain	652	PLAIN
-210	llegarse	arrive, reach		
+210	llegarse	arrive, reach	1287	ARRIVE
 211	llorar	cry	1839	CRY
-212	llover	to rain	2108	RAINING OR RAIN
+212	llover	to rain	1253	RAIN (RAINING)
 213	lodo	mud	640	MUD
-214	loma	hill	2118	MOUNTAIN OR HILL
+214	loma	hill	614	HILL
 215	lumbre	fire	221	FIRE
 216	luna	moon	1313	MOON
 217	macho, varón	male	1553	MALE
 218	madre	mother	1216	MOTHER
-219	madurarse, cocerse	ripen, become cooked		
+219	madurarse, cocerse	ripen, become cooked	179	RIPEN
 220	maíz	maize	506	MAIZE
 221	mamar	suckle	1421	SUCK
 222	mano	hand	1277	HAND
 223	marido	husband	1200	HUSBAND
-224	marrano	pig		
+224	marrano	pig	1337	PIG
 225	masticar	chew	321	CHEW
 226	mata de fruta con cuernos	plant with horned fruits		
 227	matar	kill	1417	KILL
-228	matar (compl. plur.)	kill several	1417	KILL
-229	metate	grindstone		
+228	matar (compl. plur.)	kill several		
+229	metate	grindstone	2459	GRINDSTONE
 230	mezcal	agave		
 231	moco, catarro	mucus, slime, snot	208	NASAL MUCUS (SNOT)
-232	mojarse	become wet		
+232	mojarse	become wet	2324	GET WET
 233	moler	grind	1033	GRIND
 234	morder	bite	1403	BITE
 235	morirse (suj. plur.)	die (several)		
-236	morirse (suj sg.)	die (one)		
+236	morirse (suj sg.)	die (one)	1494	DIE
 237	mosca	fly	1504	FLY (INSECT)
 238	mucho	many	1198	MANY
 239	murciélago	bat	1793	BAT
@@ -255,22 +255,22 @@ NUMBER	SPANISH	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 254	ombligo	navel	1838	NAVEL
 255	oreja	ear	1247	EAR
 256	orinar	urinate	592	PISS
-257	orines	urine		
+257	orines	urine	1142	URINE
 258	oscuro	dark	706	DARK
 259	pájaro	bird	937	BIRD
-260	palma	palm tree	1183	PALM OF HAND
+260	palma	palm	1183	PALM OF HAND
 261	palo, madera	stick, wood	1295	STICK
 262	panza	belly	1251	BELLY
 263	papa	potato	593	POTATO
-264	pararse	stand up		
-265	párpados	eyelid		
+264	pararse	stand up	570	STAND UP
+265	párpados	eyelid	17	EYELID
 266	patear	kick	1135	KICK
 267	pecho	chest	1592	CHEST
 268	pedir	ask, request	1828	ASK (REQUEST)
-269	peinarse	to comb		
+269	peinarse	to comb	2070	COMB (VERB)
 270	pelo, lana	hair, wool	2381	FEATHER OR FUR OR HAIR
 271	pene	penis	1222	PENIS
-272	perder en el juego	lose in a game		
+272	perder en el juego	lose in a game	1660	LOSE
 273	perro	dog	2009	DOG
 274	perseguir	pursue	1047	PURSUE
 275	pesado	heavy	1210	HEAVY
@@ -281,27 +281,27 @@ NUMBER	SPANISH	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 280	piel	skin	763	SKIN
 281	pierna, rodilla	leg, knee	1297	LEG
 282	pino	pine	1740	PINE
-283	piojo de la cabeza	head louse		
+283	piojo de la cabeza	head louse	310	HEAD LOUSE
 284	pisar	tread	575	TREAD
 285	pluma	feather	1201	FEATHER
-286	poder	be able to	2526	POWER
-287	podrirse, podre	rot		
-288	prender lumbre	make fire		
+286	poder	be able to	972	BE ABLE
+287	podrirse, podre	rot	2907	ROT
+288	prender lumbre	make fire	737	LIGHT (IGNITE)
 289	pulga	flea	232	FLEA
 290	punta	tip	2992	TIP (OF OBJECT)
-291	quedarse, faltar	be left		
-292	quejarse	complain		
+291	quedarse, faltar	be left	987	REMAIN
+292	quejarse	complain	3642	COMPLAIN
 293	raíz	root	670	ROOT
-294	rajarse	split		
+294	rajarse	split	1437	SPLIT
 295	rana	frog	503	FROG
 296	raspar	scrape	1767	SCRAPE
-297	rastrojo	corn stubble		
+297	rastrojo	stubble		
 298	rata	rat	1490	RAT
 299	ratón	mouse	1491	MOUSE
 300	regalar	give gift		
-301	regañar	scold		
+301	regañar	scold	299	SCOLD
 302	regresar	return	581	COME BACK
-303	reírse	laugh		
+303	reírse	laugh	1355	LAUGH
 304	renacuajo	tadpole		
 305	robar	steal	713	STEAL
 306	rodilla	knee	1371	KNEE
@@ -311,39 +311,39 @@ NUMBER	SPANISH	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 310	salir	go out	1107	GO OUT
 311	sangre	blood	946	BLOOD
 312	sapo	toad	894	TOAD
-313	secarse	to dry		
+313	secarse	to dry up	1786	DRY UP
 314	seis	six	1703	SIX
 315	sembrar	sow seeds	748	SOW SEEDS
 316	semilla	seed	714	SEED
 317	sentarse	sit down	1649	SIT DOWN
 318	sentarse (suj. plur.)	sit down (several)		
 319	sentir, desear	feel, desire	1079	FEEL
-320	ser hondo	be deep		
+320	ser hondo	be deep	1593	DEEP
 321	serpiente	snake	730	SNAKE
 322	sol	sun	1343	SUN
-323	soltarse	become loose, untie		
+323	soltarse	become loose, untie	1933	LOOSEN
 324	sombra	shade, shadow	1388	SHADE
 325	soplar	blow	176	BLOW (WITH MOUTH)
 326	subir	go up, ascend	705	GO UP (ASCEND)
 327	suegra	mother in-law	1050	MOTHER-IN-LAW
 328	suegro	father in-law	1055	FATHER-IN-LAW
 329	tabaco	tobacco	974	TOBACCO
-330	tender	lay out horizontally, extend	214	STRETCH
-331	tener dificultad, ser flojo	be lazy, have difficulties		
-332	tener miedo	be scared		
+330	tender	lay out horizontally, extend		
+331	tener dificultad, ser flojo	have difficulties, be lazy		
+332	tener miedo	be scared	1419	FEAR (BE AFRAID)
 333	tener vergüenza	be ashamed		
 334	teta	breast, teat	1402	BREAST
 335	tierra	earth, soil	1228	EARTH (SOIL)
-336	tierra de siembra	field for sowing		
+336	tierra de siembra	field for sowing	212	FIELD
 337	tigre	tiger (jaguar)	846	TIGER
-338	tirarle	throw		
+338	tirarle	throw	1456	THROW
 339	tocar música	play music		
-340	topo	mole		
+340	topo	mole	1907	MOLE
 341	tortuga	turtle	112	TURTLE
 342	toser	cough	879	COUGH
 343	tostar	to toast		
 344	tres	three	492	THREE
-345	tripa	intestine	1251	BELLY
+345	tripa	gut	1334	GUTS
 346	tuna	prickly pear		
 347	uña	nail	1896	FINGERNAIL OR TOENAIL
 348	uno	one	1493	ONE
@@ -351,15 +351,15 @@ NUMBER	SPANISH	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 350	venado bura	mule deer		
 351	ver	see	1409	SEE
 352	verde, azul	blue, green	2382	BLUE OR GREEN
-353	verruga	wart		
-354	víbora de cascabel	rattlesnake		
+353	verruga	wart	2665	WART
+354	víbora de cascabel	rattlesnake	871	RATTLESNAKE
 355	viejo	old	1229	OLD
 356	viento	wind	960	WIND
 357	volar	to fly	1441	FLY (MOVE THROUGH AIR)
 358	vomitar	vomit	1278	VOMIT
-359	yerno	son in-law	1056	SON-IN-LAW
+359	yerno	son-in-law	1056	SON-IN-LAW
 360	zancudo	mosquito	1509	MOSQUITO
-361	zopilote	vuture		
-362	zorillo	skunk		
-363	zorra	fox		
-364	dejar	leave (behind)	2896	CAUSE TO (LET)
+361	zopilote	black vulture		
+362	zorillo	skunk	3888	SKUNK
+363	zorra	fox (female)		
+364	dejar	leave (behind)		
