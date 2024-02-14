@@ -1,4 +1,4 @@
-# CLDF dataset derived from Lionnet's "Relacioones Internas de la Rama Sonorense" from 1985
+# CLDF dataset derived from Lionnet's "Relaciones Internas de la Rama Sonorense" from 1985
 
 [![CLDF validation](https://github.com/lexibank/lionnetyotonahua/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/lionnetyotonahua/actions?query=workflow%3ACLDF-validation)
 

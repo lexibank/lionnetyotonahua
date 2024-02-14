@@ -10,13 +10,13 @@
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Lionnet's \"Relacioones Internas de la Rama Sonorense\" from 1985",
+    "dc:title": "CLDF dataset derived from Lionnet's \"Relaciones Internas de la Rama Sonorense\" from 1985",
     "dcat:accessURL": "https://github.com/lexibank/lionnetyotonahua",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/lexibank/lionnetyotonahua",
             "rdf:type": "prov:Entity",
-            "dc:created": "010e4f2",
+            "dc:created": "2a444d9",
             "dc:title": "Repository"
         },
         {
