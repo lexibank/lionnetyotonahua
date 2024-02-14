@@ -51,17 +51,21 @@ class Dataset(BaseDataset):
         Convert the raw data to a CLDF dataset.
         """
         concepts = {}
-        for concept in self.concepts:
-            cid = '{0}_{1}'.format(concept["NUMBER"], slug(concept["ENGLISH"]))
+        for concept in self.conceptlists[0].concepts.values():
+            cid = '{0}_{1}'.format(concept.number, slug(concept.gloss))
             args.writer.add_concept(
                 ID=cid,
-                Name=concept["ENGLISH"],
-                Spanish_Gloss=concept["SPANISH"],
-                Concepticon_ID=concept["CONCEPTICON_ID"],
-                Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
-                Number=concept["NUMBER"]
+                Name=concept.gloss,
+                Spanish_Gloss=concept.attributes["spanish"],
+                Concepticon_ID=concept.concepticon_id,
+                Concepticon_Gloss=concept.concepticon_gloss,
+                Number=concept.number
             )
-            concepts[concept["SPANISH"]] = cid
+            concepts[concept.attributes["spanish"]] = cid
+
+        # TODO: Fix largo -> larpo
+        concepts = {"larpo" if k == "largo" else k: v for k, v in concepts.items()}
+
         args.log.info('[i] added concepts')
         languages = args.writer.add_languages(lookup_factory="Abbreviation")
         args.log.info('[i] added languages')

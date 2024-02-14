@@ -1,5 +1,6 @@
 {
   "citation": "Lionnet, André (1985): Relaciones internas de la rama sonorense. Amerindia 10.",
   "license": "CC-BY-4.0",
-  "title": "CLDF dataset derived from Lionnet's \"Relacioones Internas de la Rama Sonorense\" from 1985"
+  "conceptlist": ["Lionnet-1985-364"],
+  "title": "CLDF dataset derived from Lionnet's \"Relaciones Internas de la Rama Sonorense\" from 1985"
 }
