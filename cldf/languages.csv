@@ -1,6 +1,6 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Abbreviation
-EudeveNorth,North Eudeve,eude1234,Eudeve,,North America,28.5,-110.0,Uto-Aztecan,En
-EudeveSouth,South Eudeve,eude1234,Eudeve,,North America,28.5,-110.0,Uto-Aztecan,Es
+EudeveNorth,North Eudeve,eude1234,Eudeve,eud,North America,28.5,-110.0,Uto-Aztecan,En
+EudeveSouth,South Eudeve,eude1234,Eudeve,eud,North America,28.5,-110.0,Uto-Aztecan,Es
 Mayo,Mayo,mayo1264,Mayo,mfy,North America,26.4522,-108.981,Uto-Aztecan,MA
 Opata,Opata,opat1246,Teguima,opt,North America,31.15211,-110.06212,Uto-Aztecan,O
 TohonoOdam,Tohono O'odam,toho1246,Tohono O'odam,,North America,,,Uto-Aztecan,P

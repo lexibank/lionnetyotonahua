@@ -1,5 +1,7 @@
 # CLDF dataset derived from Lionnet's "Relacioones Internas de la Rama Sonorense" from 1985
 
+[![CLDF validation](https://github.com/lexibank/lionnetyotonahua/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/lionnetyotonahua/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -12,11 +14,15 @@ If you use these data please cite
 
 This dataset is licensed under a CC-BY-4.0 license
 
+
+Conceptlists in Concepticon:
+- [Lionnet-1985-364](https://concepticon.clld.org/contributions/Lionnet-1985-364)
 ## Statistics
 
 
+[![CLDF validation](https://github.com/lexibank/lionnetyotonahua/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/lionnetyotonahua/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 70%](https://img.shields.io/badge/Concepticon-70%25-yellow.svg "Concepticon: 70%")
+![Concepticon: 84%](https://img.shields.io/badge/Concepticon-84%25-yellowgreen.svg "Concepticon: 84%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
