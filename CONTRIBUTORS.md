@@ -2,7 +2,6 @@
 
 Name               | GitHub user  | Description    | Role
 ---                | ---          | ---            | ---
-Magnus Pharao Hansen |  | maintainer | Other
-Johann-Mattis List | @LinguList   | maintainer     | Other
+Magnus Pharao Hansen |  | maintainer | Editor
+Johann-Mattis List | @LinguList   | maintainer     | Editor
 André Lionnet | | data collection | Author
-
