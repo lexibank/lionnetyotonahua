@@ -27,8 +27,8 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 15
-- **Concepts:** 364
+- **Varieties:** 15 (linked to 14 different Glottocodes)
+- **Concepts:** 364 (linked to 292 different Concepticon concept sets)
 - **Lexemes:** 2,870
 - **Sources:** 1
 - **Synonymy:** 1.07
@@ -44,9 +44,8 @@ Conceptlists in Concepticon:
 Name               | GitHub user  | Description    | Role
 ---                | ---          | ---            | ---
 Magnus Pharao Hansen |  | maintainer | Other
-Johann-Mattis List | @LinguList   | maintainer     | Other
+Johann-Mattis List | @LinguList   | maintainer     | Editor
 André Lionnet | | data collection | Author
-
 
 
 
